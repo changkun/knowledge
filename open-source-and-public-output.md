@@ -4,14 +4,16 @@
 
 如果其他专题页更偏知识结构本身，这里关注的是这些结构如何被公开、传播并组织成可复用资产。
 
-如果教学页主要处理课堂和培养关系，这一页处理的则是另一种公共化：仓库、社区、站点、演讲、翻译和组织角色。
+如果教学页主要处理课堂和培养关系，这一页处理的则是另一种公共化：仓库、社区、站点、演讲、翻译、模板和知识基础设施。
 
 ## 输出形态
 
 - 开源仓库
 - 系列教程 / 书籍
+- 论文与研究工件
 - 演讲 slide 与公开分享
 - 翻译项目
+- 讲义 / 模板
 - 播客与社区活动
 - 个人站点与附属服务
 
@@ -25,18 +27,30 @@
 
 ## 早期形态：项目与教程
 
-2018 年总结里已经能看到相当完整的一批公开项目：
+2018 年前后已经能看到相当完整的一批公开知识仓库：
 
-- `go-under-the-hood`
 - `modern-cpp-tutorial`
 - `ws-18-19-deep-learning-tutorial`
 - `ss18-machine-learning-tutorial`
-- `qux`
 - `translation`
 - `applied-ml`
 - `theoretical-ml`
+- `computer-networks`
+- `lmu-thesis-latex`
 
-这说明公共输出并不是 2020 年之后才出现，而是在研究生阶段已经形成。
+这说明公共输出并不是 2020 年之后才出现，而是在研究生阶段已经形成；而且形式也不只是一组代码仓库，而是书、课程、阅读清单、模板和翻译目录。
+
+## 仓库本身就是知识产品
+
+GitHub 上有一批仓库并不是“代码项目顺手带 README”，而是直接以知识组织为主体：
+
+- `modern-cpp-tutorial` 是完整的书，而不是某个库的文档。
+- `computer-networks` 是 lecture notes。
+- `translation` 是持续维护的笔译作品目录。
+- `applied-ml` 与 `theoretical-ml` 是阅读清单与研究输入结构。
+- `lmu-thesis-latex` 则把学术写作经验沉淀成可复用模板。
+
+这很重要，因为它说明公共输出的习惯不是“做完项目再写一篇介绍”，而是习惯直接把知识做成可以被别人学习、复用、继续扩展的公共资产。
 
 ## Go 作为公共输出放大器
 
@@ -57,6 +71,14 @@
 - 社区连接
 - 播客
 
+## 研究工件与知识可复现性
+
+研究输出也并不只停在论文标题。
+
+- `dissertation`、`intelligence-in-the-loop`、`rankui`、`expertise-loop` 等仓库表明，公开输出还包括 thesis source、dataset、analysis script 与复现实验。
+- 这说明这里对“公开”二字的理解，不只是把结论放出来，而是尽量把通向结论的工件也组织出来。
+- 这种习惯与工程气质是一致的：更偏向可重建、可追踪、可复核的公共知识，而不是只给摘要。
+
 ## 翻译与知识基础设施
 
 翻译并不是边角料。
@@ -65,6 +87,12 @@
 - 这条线也长期落实为正式公共角色，例如翻译 50+ 英文文章进入中文社区。
 - 这说明“把外部知识迁移进中文世界”是稳定自我定位的一部分。
 - 它与写作观高度一致：不仅吸收知识，还希望重组后公开给别人使用。
+
+与翻译相邻的，还有一类更底层的知识基础设施：
+
+- `ideas` 把灵感捕获、双语整理和发布流程做成了服务。
+- `lmu-thesis-latex`、`SWUNThesis` 这类模板把“如何把知识写成正式文档”也做成了公共工具。
+- 这说明对公共输出的理解不仅是内容生产，还包括内容生产工具链本身。
 
 ## 演讲与播客
 
@@ -91,7 +119,11 @@
 - [changkun.de/blog/posts/2020-02-01-2019-年终总结/](https://changkun.de/blog/posts/2020-02-01-2019-年终总结/)
 - [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/)
 - [changkun.de/blog/about/](https://changkun.de/blog/about/)
+- [github.com/changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+- [github.com/changkun/translation](https://github.com/changkun/translation)
+- [github.com/changkun/intelligence-in-the-loop](https://github.com/changkun/intelligence-in-the-loop)
+- [github.com/changkun/lmu-thesis-latex](https://github.com/changkun/lmu-thesis-latex)
 
 ## 一句话总结
 
-这里的开源与公共输出，不只是“把代码放上 GitHub”，而是持续把知识、经验、工具和社区关系组织成可传播的公共结构。
+这里的开源与公共输出，不只是“把代码放上 GitHub”，而是持续把知识、经验、研究工件、模板、工具和社区关系组织成可传播的公共结构。

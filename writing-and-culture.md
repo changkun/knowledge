@@ -17,6 +17,7 @@
 - 写作并不只发生在博客里，还正式落成了本科论文、硕士论文、博士论文和 publications 列表中的学术输出。
 - 这三篇正式论文的主题跨度也很能说明问题演化：可穿戴交互、浏览行为理解、intelligence in the loop。
 - 因而这里的写作不是单纯表达欲，而是一种跨博客、课程、论文、讲稿与研究指导的知识组织能力。
+- GitHub 上的 `modern-cpp-tutorial`、`computer-networks`、`translation`、`applied-ml`、`theoretical-ml` 又说明，很多写作其实天然就是“仓库式写作”：书、讲义、阅读清单、译文目录和研究输入结构。
 
 ## 研究观
 
@@ -40,6 +41,12 @@
 - 文化兴趣不是单一学院派，而是把哲学、纪实文学、管理学、技术史和个人经验揉在一起理解。
 - 关于中文文学经典和哲学百科的公开笔记也表明，阅读兴趣并没有脱离中文文化世界，反而开始重新组织文学和哲学输入。
 
+较早阶段的 GitHub 仓库也保留了这条阅读结构的外显痕迹：
+
+- `applied-ml` 和 `theoretical-ml` 说明，阅读不是随手收藏，而是按应用/理论两条线组织输入。
+- `translation` 说明，阅读常常立刻转化为知识迁移，把英文、德文材料重新带进中文世界。
+- `ideas` 又说明，近年的写作越来越强调把瞬时想法快速捕获，再扩展为可发布、可双语流通的知识单元。
+
 ## 世界观轮廓
 
 - 倾向把人生理解为不断生成目标、失去目标、再寻找目标的循环。
@@ -56,6 +63,10 @@
 - [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/)
 - [changkun.de/blog/posts/2022-12-30-2022-reading/](https://changkun.de/blog/posts/2022-12-30-2022-reading/)
 - [changkun.de/blog/posts/2023-12-31-2023-reading/](https://changkun.de/blog/posts/2023-12-31-2023-reading/)
+- [github.com/changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+- [github.com/changkun/translation](https://github.com/changkun/translation)
+- [github.com/changkun/applied-ml](https://github.com/changkun/applied-ml)
+- [github.com/changkun/theoretical-ml](https://github.com/changkun/theoretical-ml)
 - 2026 年公开笔记：`值得一读的中文文学经典书单`
 - 2026 年公开笔记：`哲学知识综合在线百科全书`
 - [changkun.de/blog/posts/2026-03-10-self-reference-boundary/](https://changkun.de/blog/posts/2026-03-10-self-reference-boundary/)

@@ -19,10 +19,17 @@ The target reading experience is:
 ## Reference Sources
 
 - `knowledge/` is the source of truth for the corpus itself.
+- Public GitHub repositories are first-class source material when they themselves carry knowledge structure, not just code.
 - When integrating research material, use the public research record as the main anchor:
   - research overview and publication list
   - theses
   - public talks / defenses
+- When integrating repo-based knowledge, pay special attention to:
+  - course/tutorial repositories
+  - thesis and paper artifact repositories
+  - books, lecture notes, and templates
+  - translation catalogs and reading lists
+  - knowledge capture / publication pipelines
 - Unpublished research plans or synthesis drafts can be used to identify where recent questions are moving, but they should be written as frontier directions or active lines of thought, not as settled results.
 
 ## Structural Logic
@@ -86,10 +93,10 @@ Use these boundaries when editing:
   Focus on pedagogy, course structuring, supervision, academic training, evaluation philosophy.
 
 - `open-source-and-public-output.md`
-  Focus on OSS, talks, community roles, public technical infrastructure, translation as public work.
+  Focus on OSS, talks, books/tutorials, templates, community roles, public technical infrastructure, and translation as public work.
 
 - `writing-and-culture.md`
-  Focus on writing method, reading structure, research taste, intellectual style, worldview.
+  Focus on writing method, reading structure, translation/knowledge migration, research taste, intellectual style, worldview.
 
 - `cross-cultural-life-and-media.md`
   Focus on migration, multilingual life, German context, travel, media/cultural intake as lived background.
@@ -108,6 +115,8 @@ Maintain these rules unless there is a deliberate reorganization:
   - “这里再补一个正式坐标……”
 - Instead, integrate formal education/work/teaching/OSS facts directly into the topic narrative.
 - Prefer synthesized judgments over evidence dumping.
+- Do not privilege blog prose over repository-based knowledge artifacts.
+- If a repository is clearly a course, reading list, book, artifact, or template, treat it as a knowledge source rather than as a side project.
 - Keep public references public:
   - use public links when citing published material
   - for unpublished drafts, keep only titles, not local file paths
