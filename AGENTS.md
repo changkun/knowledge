@@ -70,6 +70,18 @@ The target reading experience is:
    Purpose:
    - Preserve the life world, edge zones, and non-core materials that shaped the main line without forcing them into the core.
 
+In addition to the layered pages, there is one maintenance file:
+
+- `terminology.md`
+  Purpose:
+  - Maintain recurring English/Chinese terminology, preferred prose forms, and exceptions for formal titles.
+
+The corpus is bilingual:
+
+- The root `knowledge/` pages are the primary English version.
+- `zh/` stores the Chinese mirror pages with the same filenames.
+- User-facing pages should keep language-switch badges linking the two versions.
+
 ## Page Responsibilities
 
 Use these boundaries when editing:
@@ -117,6 +129,7 @@ Maintain these rules unless there is a deliberate reorganization:
 - Prefer synthesized judgments over evidence dumping.
 - Do not privilege blog prose over repository-based knowledge artifacts.
 - If a repository is clearly a course, reading list, book, artifact, or template, treat it as a knowledge source rather than as a side project.
+- For recurring terminology, prefer the default English prose forms recorded in `terminology.md` on the root pages. The `zh/` mirror should keep the corresponding Chinese forms. Keep original-language text only when it is part of a formal title, repository name, course name, or other fixed public label.
 - Keep public references public:
   - use public links when citing published material
   - for unpublished drafts, keep only titles, not local file paths

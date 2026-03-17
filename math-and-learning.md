@@ -1,34 +1,36 @@
-# 知识：数学与学习理论
+# Knowledge: Mathematics and Learning Theory
 
-数学在这里不是工具箱，而是组织世界、压缩定义并解释学习问题的语言。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/math-and-learning.md)
 
-在整套知识版图里，这一页是最底层的根基。很多后面的系统判断、研究问题和写作习惯，最后都能追溯到这里的公理化冲动与定义意识。
+Mathematics is treated here as a language for organizing objects, compressing definitions, and explaining learning problems. It also forms part of a durable method habit.
 
-## 核心知识
+Within the overall map, this page sits at the lowest layer. Many later system judgments, research questions, and writing habits can be traced back to the axiomatic tendency and definition-sensitivity established here.
 
-- 集合论与公理化：长期关注集合、关系、函数、序、良序、基础公理与对象构造方式，强调“对象为何存在”“性质如何被实体化”。
-- 证明结构与定义意识：不满足于会用定理，更关心为什么要这样定义，哪些公理是必要的，哪些只是历史遗留的方便写法。
-- 概率与统计学习理论：把学习问题理解为风险最小化与经验风险最小化之间的一致性问题，而不是只把机器学习当作调参。
-- 泛函分析与泛化理论：关注泛函空间大数定律、一致收敛、VC/Rademacher/PAC-Bayes、压缩法、平坦极小值、噪声稳定性。
-- 计算机视觉中的数学建模：曾系统写过 Kalman 滤波、MeanShift、Fourier 变换、图像信号相关性、边界积分匹配等内容。
-- 数学建模与可讲授化：不仅研究理论，也多次把概率、马尔可夫链、蒙特卡洛、排队论、隐马尔可夫模型、不动点等主题组织成教程、视频和建模问题。
+## Core Knowledge
 
-## 典型思考方式
+- Set theory and axiomatization: long-term attention to sets, relations, functions, order, well-ordering, foundational axioms, and ways of constructing objects, with repeated emphasis on why an object exists and how a property is made concrete.
+- Proof structure and definition awareness: the interest is not limited to using theorems, but extends to why a definition is made in a particular way, which axioms are necessary, and which are merely historical conveniences.
+- Probability and statistical learning theory: learning is understood as a question of consistency between risk minimization and empirical risk minimization, not merely as parameter tuning.
+- Functional analysis and generalization theory: recurring topics include laws of large numbers in function spaces, uniform convergence, VC/Rademacher/PAC-Bayes, compression-based arguments, flat minima, and noise stability.
+- Mathematical modeling in computer vision: sustained writing on Kalman filtering, MeanShift, Fourier transforms, image-signal correlation, and boundary-integral matching.
+- Mathematical modeling as something teachable: the work does not stop at theory, but repeatedly reorganizes probability, Markov chains, Monte Carlo, queueing theory, hidden Markov models, and fixed points into tutorials, videos, and modeling problems.
 
-- 喜欢先解释“为什么定义成这样”，再解释“这个定义能拿来做什么”。
-- 对纯经验主义保持警惕，反复追问收敛条件、有效复杂度、稳定性、可压缩性和边界。
-- 倾向把机器学习问题重新翻译回数学问题，例如函数空间、一致收敛、复杂度度量、误差传播。
-- 会继续把抽象理论压缩成可讲授、可模拟、可编程的对象，而不满足于停留在纸面证明。
-- 数学兴趣并不只停留在应用层，还包含集合论、流形、测度、Riemann 等更偏基础的问题。
+## Typical Way of Thinking
 
-## 知识侧重点
+- Explain why a definition is set up as it is before explaining what it can do.
+- Stay cautious about pure empiricism and keep asking about convergence conditions, effective complexity, stability, compressibility, and boundaries.
+- Translate machine learning questions back into mathematical ones such as function spaces, uniform convergence, complexity measures, and error propagation.
+- Keep compressing abstract theory into objects that can be taught, simulated, and programmed, rather than leaving it as paper proof alone.
+- The mathematical interest also reaches into more basic topics such as set theory, manifolds, measure, and Riemannian thinking.
 
-- 不是只喜欢解题，而是喜欢研究一个理论系统如何被搭起来。
-- 不是只接受“这在工程上 work”，而是想知道它为什么在某些条件下必然 work，或者为什么根本不该被过度解释。
-- 对深度学习的关注更偏理论解释，尤其是泛化性、压缩、稳定秩、样本复杂度这些母题。
-- 未发布草稿里还能看到一条没有完全展开的数学长线：不等式证明、Fermat 数、三维复数、单值函数论到流形思想、统计学习理论综述等。
+## Main Emphasis
 
-## 参考文章与页面
+- The emphasis is on how a theoretical system is built, not on puzzle-solving technique.
+- Engineering usefulness is not enough on its own; the question remains why something works under certain conditions, or why it should not be overinterpreted.
+- Deep learning is approached mainly through theory, especially generalization, compression, stable rank, and sample complexity.
+- Unpublished drafts still show a partly uncollapsed mathematical line: inequality proofs, Fermat numbers, three-dimensional complex numbers, single-valued function theory, manifolds, and overviews of statistical learning theory.
+
+## References
 
 - [changkun.de/blog/posts/2012-06-28-谈谈良序原理/](https://changkun.de/blog/posts/2012-06-28-谈谈良序原理/)
 - [changkun.de/blog/posts/2013-01-31-ZFC-集合论中各公理的意义及作用/](https://changkun.de/blog/posts/2013-01-31-ZFC-集合论中各公理的意义及作用/)
@@ -40,11 +42,11 @@
 - [changkun.de/blog/posts/2013-09-21-基于图像信号分析的碎纸片的拼接复原/](https://changkun.de/blog/posts/2013-09-21-基于图像信号分析的碎纸片的拼接复原/)
 - [changkun.de/blog/posts/2015-02-17-什么是泛函空间的大数定律？它是机器学习理论的里程碑吗？/](https://changkun.de/blog/posts/2015-02-17-什么是泛函空间的大数定律？它是机器学习理论的里程碑吗？/)
 - [changkun.de/blog/posts/2017-12-17-深度学习的泛化理论简介/](https://changkun.de/blog/posts/2017-12-17-深度学习的泛化理论简介/)
-- [changkun.de/blog/specialization/](https://changkun.de/blog/specialization/) 中的 UMSLT 系列与建模/机器学习教程索引
-- 2018《UMSLT01-04》
+- The UMSLT series and the modeling / machine-learning tutorial index in [changkun.de/blog/specialization/](https://changkun.de/blog/specialization/)
+- 2018 series: `UMSLT01-04`
 - [changkun.de/blog/posts/2018-03-26-压缩法与深度网络的泛化性/](https://changkun.de/blog/posts/2018-03-26-压缩法与深度网络的泛化性/)
-- 未发布草稿《统计学习理论综述》《浅谈不等式证明二三事》《Hamilton 找不到「三维复数」的原因》
+- Unpublished drafts: `A Survey of Statistical Learning Theory`, `A Few Notes on Inequality Proofs`, `Why Hamilton Could Not Find a "Three-Dimensional Complex Number"`
 
-## 一句话总结
+## One-Sentence Summary
 
-这里的数学气质，核心不是竞赛式技巧，而是公理化、结构化、可证明性，以及把机器学习重新拉回理论基础的冲动。
+The mathematical temperament here is defined by axiomatization, structure, provability, and the tendency to pull machine learning back toward theoretical foundations rather than toward competition-style technique.

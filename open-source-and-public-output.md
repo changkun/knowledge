@@ -1,118 +1,111 @@
-# 知识：开源、演讲与公共输出
+# Knowledge: Open Source, Talks, and Public Output
 
-这里讨论的是“面向他人的技术输出”。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/open-source-and-public-output.md)
 
-如果其他专题页更偏知识结构本身，这里关注的是这些结构如何被公开、传播并组织成可复用资产。
+This page is about technical output directed toward others.
 
-如果教学页主要处理课堂和培养关系，这一页处理的则是另一种公共化：仓库、社区、站点、演讲、翻译、模板和知识基础设施。
+Where other pages focus more on knowledge structure itself, this one focuses on how those structures are made public, circulated, and organized into reusable assets.
 
-## 输出形态
+Within the output layer, this page handles public work outside the classroom: repositories, communities, sites, talks, translations, templates, and knowledge infrastructure.
 
-- 开源仓库
-- 系列教程 / 书籍
-- 论文与研究工件
-- 演讲 slide 与公开分享
-- 翻译项目
-- 讲义 / 模板
-- 播客与社区活动
-- 个人站点与附属服务
+It does not cover teaching relationships inside courses, nor writing method as such. The emphasis is on how these materials are organized into long-lived public assets.
 
-## 组织性的公共角色
+## Forms of Output
 
-- 公开统计条目给出了更硬的规模信息：20.8k+ GitHub stars、14.9k+ commits、20+ 开源项目。
-- 公开贡献排名把这条线进一步坐实为长期身份，而不只是爱好者活动: top-200 active developer in Germany。
-- 在 Go 社区并不是外围参与，而是 official Go organization member、`x/mobile` maintainer，并持续向 runtime 和 standard library 贡献。
-- 在 fyne 里也不是一次性 PR，而是 organization member，长期关注 graphics driver 与 performance。
-- `golang.design`、TalkGo、翻译社区与教程项目共同说明，公共输出的单位不是单篇文章，而是组织、站点、社区和一组长期资产。
+- open-source repositories
+- tutorial series / books
+- papers and research artifacts
+- slides and public talks
+- translation projects
+- lecture notes / templates
+- podcasts and community activity
+- personal sites and related services
 
-## 早期形态：项目与教程
+## Public Roles with Organizational Weight
 
-2018 年前后已经能看到相当完整的一批公开知识仓库：
+- Public metrics make the scale clearer: 20.8k+ GitHub stars, 14.9k+ commits, and 20+ open-source projects.
+- Public contribution rankings also confirm this as a long-term identity: top 200 most active developers in Germany.
+- In the Go community, the role extends to official Go organization membership, `x/mobile` maintenance, and continued contributions to the runtime and standard library.
+- In Fyne, the involvement also develops into a long-term organizational role with sustained attention to graphics drivers and performance.
+- `golang.design`, TalkGo, translation communities, and tutorial projects together show that public output has expanded from single articles into organizations, sites, communities, and a portfolio of durable assets.
 
-- `modern-cpp-tutorial`
-- `ws-18-19-deep-learning-tutorial`
-- `ss18-machine-learning-tutorial`
-- `translation`
-- `applied-ml`
-- `theoretical-ml`
-- `computer-networks`
-- `lmu-thesis-latex`
+## Early Shape: Projects and Tutorials
 
-这说明公共输出并不是 2020 年之后才出现，而是在研究生阶段已经形成；而且形式也不只是一组代码仓库，而是书、课程、阅读清单、模板和翻译目录。
+By around 2018, there is already a batch of mature public knowledge repositories such as `modern-cpp-tutorial`, machine-learning tutorial repositories, `translation`, `computer-networks`, and `lmu-thesis-latex`. Public output is already formed during the graduate period, and 2020 onward mainly extends its range. The forms include books, courses, reading lists, templates, and translation catalogs, not just code repositories.
 
-## 仓库本身就是知识产品
+## Repositories as Knowledge Products
 
-GitHub 上有一批仓库并不是“代码项目顺手带 README”，而是直接以知识组织为主体：
+Several GitHub repositories are organized primarily around knowledge itself:
 
-- `modern-cpp-tutorial` 是完整的书，而不是某个库的文档。
-- `computer-networks` 是 lecture notes。
-- `translation` 是持续维护的笔译作品目录。
-- `applied-ml` 与 `theoretical-ml` 是阅读清单与研究输入结构。
-- `lmu-thesis-latex` 则把学术写作经验沉淀成可复用模板。
+- `modern-cpp-tutorial` is a full book.
+- `computer-networks` is a set of lecture notes.
+- `translation` is a continuously maintained translation catalog.
+- Reading-list and research-input repositories make the structure of knowledge intake public as well.
+- `lmu-thesis-latex` turns academic writing experience into a reusable template.
 
-这很重要，因为它说明公共输出的习惯不是“做完项目再写一篇介绍”，而是习惯直接把知识做成可以被别人学习、复用、继续扩展的公共资产。
+This shows a stable habit of turning knowledge directly into public assets that others can study, reuse, and extend, rather than limiting output to project afterwords.
 
-## Go 作为公共输出放大器
+## Go as an Output Multiplier
 
-2019-2021 是最强烈的放大期。
+2019-2021 is a clear period of amplification.
 
-- 2019 年通过《Go 语言原本 / Go Under the Hood》进入更大的 Go 社区。
-- 参与 Go 夜读、Go 社区活动、欧洲 Go Contributor Summit。
-- 持续产出 Go 性能、运行时、benchmark、内存管理相关内容。
-- 2020 年建立 `golang.design`，把分散资源重新组织成一个长期站点与项目集合。
+- In 2019, `Go Under the Hood / Go 语言原本` becomes an entry into the broader Go community.
+- Participation extends to Go Nights, Go community events, and the European Go Contributor Summit.
+- There is continued output on Go performance, runtime behavior, benchmarking, and memory management.
+- In 2020, `golang.design` is created to reorganize scattered resources into a long-term site and project collection.
 
-关键不在于“写了几篇 Go 文章”，而在于形成了一个完整的公共输出面：
+The key point is not how many Go articles were written, but that a full public-output surface was formed:
 
-- 文章
-- 仓库
-- 域名
-- 工具
-- 演讲
-- 社区连接
-- 播客
+- articles
+- repositories
+- domains
+- tools
+- talks
+- community links
+- podcasts
 
-## 研究工件与知识可复现性
+## Research Artifacts and Reproducibility
 
-研究输出也并不只停在论文标题。
+Research output does not stop at paper titles.
 
-- `dissertation`、`intelligence-in-the-loop`、`rankui`、`expertise-loop` 等仓库表明，公开输出还包括 thesis source、dataset、analysis script 与复现实验。
-- 这说明这里对“公开”二字的理解，不只是把结论放出来，而是尽量把通向结论的工件也组织出来。
-- 这种习惯与工程气质是一致的：更偏向可重建、可追踪、可复核的公共知识，而不是只给摘要。
+- Repositories such as `dissertation`, `intelligence-in-the-loop`, `rankui`, and `expertise-loop` show that public output also includes thesis source, datasets, analysis scripts, and reproducible experiments.
+- This means that "public" here includes not only conclusions, but also the artifacts that lead to those conclusions.
+- That habit aligns with the engineering temperament: the preference is for reconstructable, traceable, reviewable public knowledge with fuller material than a summary alone.
 
-## 翻译与知识基础设施
+## Translation and Knowledge Infrastructure
 
-翻译并不是边角料。
+Translation also holds a stable place here.
 
-- 在 2017、2018、2019 的总结里，翻译工作被持续提到。
-- 这条线也长期落实为正式公共角色，例如翻译 50+ 英文文章进入中文社区。
-- 这说明“把外部知识迁移进中文世界”是稳定自我定位的一部分。
-- 它与写作观高度一致：不仅吸收知识，还希望重组后公开给别人使用。
+- Translation work is repeatedly mentioned in the 2017, 2018, and 2019 yearly summaries.
+- It also became a formal public role over time, for example by bringing 50+ English articles into the Chinese community.
+- Moving external knowledge into the Chinese world is part of a stable self-positioning.
+- This strongly matches the writing view: not only absorbing knowledge, but reorganizing it for public use.
 
-与翻译相邻的，还有一类更底层的知识基础设施：
+Adjacent to translation is a more infrastructural layer:
 
-- `ideas` 把灵感捕获、双语整理和发布流程做成了服务。
-- `lmu-thesis-latex`、`SWUNThesis` 这类模板把“如何把知识写成正式文档”也做成了公共工具。
-- 这说明对公共输出的理解不仅是内容生产，还包括内容生产工具链本身。
+- `ideas` turns idea capture, bilingual organization, and publishing workflow into a service.
+- Templates such as `lmu-thesis-latex` and `SWUNThesis` turn the process of writing formal documents into public tools.
+- This shows that public output is understood not only as content production, but also as the toolchain of content production.
 
-## 演讲与播客
+## Talks and Podcasts
 
-从 2019、2020 总结看，公开演讲和播客开始成为新的输出渠道。
+The 2019 and 2020 summaries show public talks and podcasts becoming new channels of output.
 
-- Go Nights 分享
-- `gobench` 等主题演讲
+- Go Nights talks
+- topic talks such as `gobench`
 - `talkgo.fm`
-- 与社区核心人物的交流和录制
+- conversations and recordings with core community figures
 
-这意味着输出形式从文章扩展到了声音和现场表达。
+The output form expands here from writing into audio and live presentation.
 
-## 公共输出的共同特征
+## Shared Characteristics of the Public Output
 
-- **组织欲很强**：喜欢把分散知识做成系列。
-- **寿命意识很强**：希望内容能跨越短期热度继续有价值。
-- **不只写文章**：更偏向“知识产品化”。
-- **基础设施意识强**：网站、域名、服务、重定向、部署本身也是输出的一部分。
+- **Strong organizing drive**: scattered knowledge is repeatedly turned into series.
+- **Strong lifespan awareness**: content is expected to remain valuable beyond short-term attention cycles.
+- **Beyond articles**: the output leans toward knowledge productization.
+- **Strong infrastructure awareness**: sites, domains, services, redirects, and deployment are treated as part of the output itself.
 
-## 参考文章与页面
+## References
 
 - [changkun.de/blog/posts/2018-10-01-Go-source-code-study-is-now-open-source/](https://changkun.de/blog/posts/2018-10-01-Go-source-code-study-is-now-open-source/)
 - [changkun.de/blog/posts/2018-12-27-2018-年终总结/](https://changkun.de/blog/posts/2018-12-27-2018-年终总结/)
@@ -124,6 +117,6 @@ GitHub 上有一批仓库并不是“代码项目顺手带 README”，而是直
 - [github.com/changkun/intelligence-in-the-loop](https://github.com/changkun/intelligence-in-the-loop)
 - [github.com/changkun/lmu-thesis-latex](https://github.com/changkun/lmu-thesis-latex)
 
-## 一句话总结
+## One-Sentence Summary
 
-这里的开源与公共输出，不只是“把代码放上 GitHub”，而是持续把知识、经验、研究工件、模板、工具和社区关系组织成可传播的公共结构。
+Open source and public output here continuously organize knowledge, experience, research artifacts, templates, tools, and community relationships into transmissible public structure.

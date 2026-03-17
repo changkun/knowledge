@@ -1,61 +1,65 @@
-# 知识：写作、研究与文化世界
+# Knowledge: Writing, Research, and the Cultural World
 
-文化取向并不是技术之外的装饰，而是决定如何阅读、如何写作、如何研究、如何理解自我的底层背景。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/writing-and-culture.md)
 
-它在整张地图里既属于输出层，也不断向下影响基础层和研究层，因为很多结构感、问题意识和深度偏好，最终都是通过写作与阅读被稳定下来的。
+Cultural orientation is also part of the deep background that determines how one reads, writes, researches, and understands the self. It is not decoration outside technology.
 
-## 写作观
+Within the full map, this page belongs to the output layer, but it also keeps shaping the foundation and research layers. Much of the sense of structure, problem consciousness, and depth preference is stabilized through writing and reading.
 
-- 反复思考“怎样把网状知识展开成线性叙事”，认为好的写作不是堆信息，而是让读者在适当时刻形成闭环。
-- 不喜欢快餐式知识拼盘，偏向专著式、来龙去脉式、结构先行的表达。
-- 在数学、Go、科研写作等主题上都明显表现出一种强组织欲：概念顺序、章节依赖、动机铺垫都要自洽。
-- 对“只有结论、没有思路来源”的内容保持警惕，认为思想本身与组织方式同样重要。
-- 最近几年的写作媒介明显变化：除了长文，也开始接受更短的卡片式公开笔记，把问题、开放问题和研究脉络压缩成短格式。
+Inside the output layer, this page is closer to the writing method, research judgment, and cultural orientation behind public expression. The public role of courses or repositories themselves is handled by neighboring pages.
 
-## 正式写作形态
+## View of Writing
 
-- 写作并不只发生在博客里，还正式落成了本科论文、硕士论文、博士论文和 publications 列表中的学术输出。
-- 这三篇正式论文的主题跨度也很能说明问题演化：可穿戴交互、浏览行为理解、intelligence in the loop。
-- 因而这里的写作不是单纯表达欲，而是一种跨博客、课程、论文、讲稿与研究指导的知识组织能力。
-- GitHub 上的 `modern-cpp-tutorial`、`computer-networks`、`translation`、`applied-ml`、`theoretical-ml` 又说明，很多写作其实天然就是“仓库式写作”：书、讲义、阅读清单、译文目录和研究输入结构。
+- There is repeated reflection on how to unfold web-like knowledge into linear narrative. Good writing is expected to let the reader form a loop at the right moment rather than merely piling up information.
+- Fast-food knowledge platters are not attractive; the preferred form is more book-like, with structure, motivation, and sequence made explicit.
+- In mathematics, Go, and research writing alike, there is a strong organizing tendency: concept order, chapter dependence, and motivational buildup need to cohere.
+- There is caution toward content that offers conclusions without the path of thought behind them. The organization of thought is treated as important as the thought itself.
+- In recent years the medium has also shifted. Long-form writing remains, but shorter public notes are now accepted as cards that compress questions, open problems, and research trajectories.
 
-## 研究观
+## Formal Writing Forms
 
-- 把科研看作长期职业路径，而不是单纯学历过程。
-- 创意来源强调七类渠道：同事、既有工作、近年论文、工业界动态、真实需求、待证明的直觉假设、会议征稿方向。
-- 选题标准强调新知识贡献、理论支撑、资源条件、时间可达性、个人动机与伦理边界。
-- 对证据和论点关系非常敏感，不接受没有证据支撑的强断言；从论文、导师链条和研究指导经历里，也能看到这种证据意识和学术规范感。
+- Writing happens outside the blog as well, taking the form of theses, academic publications, course materials, and research talks.
+- From wearable interaction to behavior understanding and then intelligence in the loop, formal writing keeps advancing in step with the evolution of the problems.
+- Writing here therefore appears as a knowledge-organizing ability that spans blogs, courses, papers, talks, and research guidance. Expression is only one layer of it.
+- Much of the writing also takes the form of repository-based writing, including books, lecture notes, reading lists, translation catalogs, and structured research input.
 
-## 教学与专业成长
+## View of Research
 
-- 明显相信“专业能力来自长期实践而不是考试分数”。
-- 对学生和后辈的建议长期稳定：至少精通一门语言、重视数据结构/操作系统/编译原理/数据库、多写代码、多做工程。
-- 教学上倾向认真而不讨好，重视真正有用的知识密度，哪怕这会导致反馈并不总是友善。
-- 越往后越强调深度胜于广度，社会评价专业能力最终看的是贡献，而不是学过什么。
+- Research is treated as a long-term professional path rather than a degree process.
+- The sources of ideas are organized around seven channels: colleagues, prior work, recent papers, industry movement, real needs, intuitive hypotheses awaiting proof, and conference calls.
+- Topic selection emphasizes contribution of new knowledge, theoretical support, resource conditions, time feasibility, personal motivation, and ethical boundaries.
+- There is high sensitivity to the relation between evidence and claim. Strong assertions without evidence are not accepted, and the same evidential discipline is visible in papers, advising lines, and supervision experience.
 
-## 阅读与文化取向
+## Teaching and Professional Growth
 
-- 近年阅读重心明显从工程书转向哲学、社会科学、心理学、管理与认知问题。
-- 关注主题包括：社会选择、Bayesian epistemology、自由意志、虚无与意义、认知偏差、身份与主体性。
-- 工程书并没有消失，但更多变成参考书；真正驱动阅读兴趣的，已经是“为什么做”“结构如何成立”“人如何理解世界”。
-- 文化兴趣不是单一学院派，而是把哲学、纪实文学、管理学、技术史和个人经验揉在一起理解。
-- 关于中文文学经典和哲学百科的公开笔记也表明，阅读兴趣并没有脱离中文文化世界，反而开始重新组织文学和哲学输入。
+- Professional ability is understood to come mainly from long practice rather than exam scores.
+- Advice to students and younger peers remains stable over time: master at least one language, value data structures / operating systems / compilers / databases, write more code, and do more engineering.
+- In teaching, the stance is serious rather than accommodating. Useful knowledge density matters even when feedback becomes less friendly.
+- Over time, depth is valued more than breadth, and contribution becomes the main criterion by which professional ability is judged.
 
-较早阶段的 GitHub 仓库也保留了这条阅读结构的外显痕迹：
+## Reading and Cultural Orientation
 
-- `applied-ml` 和 `theoretical-ml` 说明，阅读不是随手收藏，而是按应用/理论两条线组织输入。
-- `translation` 说明，阅读常常立刻转化为知识迁移，把英文、德文材料重新带进中文世界。
-- `ideas` 又说明，近年的写作越来越强调把瞬时想法快速捕获，再扩展为可发布、可双语流通的知识单元。
+- In recent years, reading has clearly shifted from engineering books toward philosophy, social science, psychology, management, and questions of cognition.
+- The recurring topics include social choice, Bayesian epistemology, free will, nihilism and meaning, cognitive bias, identity, and subjectivity.
+- Engineering books do not disappear, but they become more reference-like. What increasingly drives reading is "why to do," "how a structure holds," and "how humans understand the world."
+- Cultural interests place philosophy, nonfiction, management, the history of technology, and personal experience in the same frame rather than staying within a single academic tradition.
+- Public notes on Chinese literary classics and philosophy encyclopedias also show that the reading line never leaves the Chinese cultural world. Instead, it starts reorganizing literary and philosophical input within it.
 
-## 世界观轮廓
+Earlier GitHub repositories also preserve visible traces of this reading structure:
 
-- 倾向把人生理解为不断生成目标、失去目标、再寻找目标的循环。
-- 对“自由”的理解更接近长期可选择性、创造空间与时间支配权，而不仅是职位或收入。
-- 认为真正重要的不是知识堆积，而是能否把知识变成长期贡献、稳定关系和持续行动。
-- 最近几年越来越关注“我是谁”“体验是否还能成为人的最后边界”“思考外包之后主体是否变化”。
-- 公开笔记与读书清单一起表明，这种问题意识已经具体化为对知识/信念悖论、自指、透明心智、体验与意义重构的持续追问。
+- `applied-ml` and `theoretical-ml` show that reading input was organized along application and theory lines rather than stored casually.
+- `translation` shows that reading often turns immediately into knowledge migration by bringing English and German material back into Chinese.
+- `ideas` shows a recent emphasis on capturing momentary thoughts quickly and extending them into publishable, bilingual knowledge units.
 
-## 参考文章与页面
+## Outline of Worldview
+
+- Life is often understood as a cycle of generating goals, losing them, and searching again.
+- Freedom is understood less as position or income than as long-term optionality, room for creation, and control over time.
+- What matters most is whether knowledge can become long-term contribution, stable relationships, and sustained action. Accumulation alone is not enough.
+- In recent years the questions "who am I?", "can experience still remain the last human boundary?", and "what changes when thinking is outsourced?" have become more central.
+- Public notes and reading lists together show that this problem consciousness has already become a sustained inquiry into knowledge-belief paradoxes, self-reference, transparent minds, experience, and the reconstruction of meaning.
+
+## References
 
 - [changkun.de/blog/posts/2016-05-24-从科研写作谈起/](https://changkun.de/blog/posts/2016-05-24-从科研写作谈起/)
 - [changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/](https://changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/)
@@ -67,10 +71,10 @@
 - [github.com/changkun/translation](https://github.com/changkun/translation)
 - [github.com/changkun/applied-ml](https://github.com/changkun/applied-ml)
 - [github.com/changkun/theoretical-ml](https://github.com/changkun/theoretical-ml)
-- 2026 年公开笔记：`值得一读的中文文学经典书单`
-- 2026 年公开笔记：`哲学知识综合在线百科全书`
+- 2026 public note: `A Worthwhile Reading List of Chinese Literary Classics`
+- 2026 public note: `An Integrated Encyclopedia of Philosophical Knowledge`
 - [changkun.de/blog/posts/2026-03-10-self-reference-boundary/](https://changkun.de/blog/posts/2026-03-10-self-reference-boundary/)
 
-## 一句话总结
+## One-Sentence Summary
 
-这里的文化气质，是从技术训练中长出来的结构感、从阅读中长出来的问题意识，以及从长期实践中形成的深度偏好。
+The cultural temperament here is a sense of structure grown out of technical training, a problem consciousness formed through reading, and a depth preference stabilized through long practice.

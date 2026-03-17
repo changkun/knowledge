@@ -1,65 +1,67 @@
-# 知识：博士阶段与研究形成
+# Knowledge: Doctoral Training and Research Formation
 
-这页处理的不是某个单一应用题材，而是正式研究能力如何被组织起来：从早期交互原型，到行为理解与预测，再到博士阶段的人在环研究，以及若干反复出现的案例域。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/doctoral-training-and-research-formation.md)
 
-它在整张地图里的位置，是基础层第一次真正汇成研究 program 的地方。
+This page tracks how formal research capability was organized: from early interaction prototypes, to behavior understanding and prediction, to doctoral human-in-the-loop work, together with several recurring case domains.
 
-与数学、系统、学习理论相比，这一页更关心的是：正式研究训练究竟形成了什么问题意识、方法组合和案例结构。
+Within the overall map, this is the point where the foundation layer first flows into a formal research trajectory.
 
-## 一条清晰的形成线
+Compared with the pages on mathematics, systems, and learning theory, this page is more concerned with what kinds of questions, methods, and case structures formal research training produced.
 
-- 2016 年的本科论文 *Designing Alternative Contact-free Control Modalities for Smart Watches*，已经在处理输入通道、交互模式与可穿戴设备上的人机问题。
-- 2019 年的硕士论文 *Understanding and Predicting Web Browsing Behavior*，把兴趣推进到行为理解、预测与用户状态建模。
-- 2018 年起在 LMU 作为研究助理与讲师工作，研究、教学、工业合作和课程组织在同一阶段并行展开。
-- 2023-04-03 完成 LMU 博士答辩，博士论文 *The Intelligence in the Loop: Empirical Explorations and Reflections* 之后以 2024 年版本公开。这时研究主线已经明确变成 **intelligence in the loop / human in the loop**，而不再是某个单一技术方向。
+## A Clear Line of Formation
 
-如果把这三篇学位论文连起来看，研究形成并不是突然跳到 AI，而是沿着一条很清楚的线推进：交互方式 -> 行为建模 -> 人在环判断、优化与系统失效。
+- The 2016 bachelor's thesis, *Designing Alternative Contact-free Control Modalities for Smart Watches*, already works on input channels, interaction modalities, and human-machine questions on wearable devices.
+- The 2019 master's thesis, *Understanding and Predicting Web Browsing Behavior*, pushes the line toward behavior understanding, prediction, and user-state modeling.
+- From 2018 onward, work at LMU as a research assistant and lecturer lets research, teaching, industry collaboration, and course organization develop in parallel.
+- The LMU doctoral defense was completed on 2023-04-03. The dissertation, *The Intelligence in the Loop: Empirical Explorations and Reflections*, was later released publicly in a 2024 version. By this point, the research line had clearly shifted toward **intelligence in the loop / human in the loop** rather than a single technical direction.
 
-## 研究不是单线，而是几个彼此相连的研究簇
+Seen together, the three theses form a clear progression: interaction modality -> behavior modeling -> human-in-the-loop judgment, optimization, and system failure.
 
-### 行为理解与用户状态
+## Several Connected Research Clusters
 
-- 硕士阶段的 web browsing behavior 研究，处理的是用户如何在 tab、网站和任务之间切换，说明“理解用户”在这里从来不是泛泛的人文兴趣，而是可建模、可预测、可进入系统设计的对象。
-- 这条线后来又延伸到 prospective memory、context switching、attention state 等问题，继续追问系统如何影响人的意图保持、任务状态和认知负担。
+### Behavior Understanding and User State
 
-### 人在环优化与机器理性
+- The master's work on web browsing behavior studies how users switch among tabs, websites, and tasks. "Understanding the user" is already at the level of something that can be modeled, predicted, and incorporated into system design.
+- This line later extends into prospective memory, context switching, and attention state, continuing to ask how digital systems interrupt, reorder, or weaken intention retention, task state, and cognitive load.
 
-- 博士阶段最核心的工作，不是“做一个会跑的模型”，而是研究人如何进入优化回路、接口如何塑造判断、系统如何暴露或掩盖 loop failure。
-- *The Impact of Expertise in the Loop for Exploring Machine Rationality*、*The Human in the Infinite Loop*、以及 opinion measurement interface 的工作，连成了一条很明确的线：人不是标签提供者，而是判断者、解释者、约束源和失效环节。
-- 这里的研究兴趣，也解释了为什么后期会自然推进到偏好、trade-off、explanation 和 responsibility chain 这些问题。
+### Human-in-the-Loop Optimization and Machine Rationality
 
-### 生理信号、自适应系统与沉浸式交互
+- The central doctoral line studies how humans enter optimization loops, how interfaces shape judgment, and how systems expose or hide loop failure.
+- *The Impact of Expertise in the Loop for Exploring Machine Rationality*, *The Human in the Infinite Loop*, and work on opinion measurement interfaces form a clear line in which humans act as judges, interpreters, constraint sources, and failure points.
+- This also explains the later move toward preference, trade-offs, explanation, and responsibility chains.
 
-- 另一条很重的研究线，是用 EEG、EDA、ECG、eye tracking 等信号研究 adaptive VR/AR 系统。
-- 相关工作覆盖 visual complexity adaptation、internal/external attention balance、mixed reality visual search、typing performance、movement training、VR exergaming 等。
-- 这些课题表面上分散，实际上都在问同一件事：如果用户状态本身是动态的、具身的、部分不可言说的，系统应该如何感知、建模并适应这种变化。
+### Physiological Signals, Adaptive Systems, and Immersive Interaction
 
-### crowd + machine learning 与社会性系统
+- Another major line studies adaptive VR/AR systems through signals such as EEG, EDA, ECG, and eye tracking.
+- Related work covers visual-complexity adaptation, internal/external attention balance, mixed-reality visual search, input performance, motion training, and VR exergaming.
+- These topics look scattered on the surface, but they all ask the same question: if user state is dynamic, embodied, and only partly articulable, how should a system sense, model, and adapt to it?
 
-- 群体与系统的关系也不是后来才出现。早期有 GWAP 灾害监测系统中的恶意玩家检测，之后又有 oil spill detection 这类 crowd 与 machine learning 结合的智能界面工作。
-- 这说明研究 program 里一直有一条社会性维度：人不是单个用户，也可能作为群体、标注源、噪声源、作弊者、协作者或集体判断的一部分进入系统。
+### Crowd + Machine Learning and Social Systems
 
-## 方法气质
+- The relationship between groups and systems appears early. There is early work on malicious-player detection in a GWAP disaster-monitoring system, followed by intelligent-interface work on oil-spill detection that combines crowds with machine learning.
+- This shows that the research line has always had a social dimension. Humans enter the system not only as individual users, but also as groups, label sources, noise sources, cheaters, collaborators, or parts of collective judgment.
 
-- **经验研究与系统实现并重**：既做实验、界面、信号采集和用户研究，也关心算法、数据处理和系统原型是否真的可运行。
-- **从 interaction 到 loop**：问题往往不是停在“界面好不好用”，而是继续追问交互如何改变判断、判断如何进入优化、优化又如何反过来塑造人。
-- **跨层证据意识**：行为数据、生理信号、实验操控、失败案例、解释界面和运行系统在这里经常被放到同一证据链里。
-- **案例域服务于方法，而不是反过来**：不同应用场景的价值，在于它们让这些问题可以被观察、操控和验证。
+## Methodological Temperament
 
-## 图形、几何与 3D 系统在这里的真实位置
+- **Empirical research and system building together**: the work includes experiments, interfaces, signal collection, and user studies, but also cares about whether algorithms, data pipelines, and prototypes actually run.
+- **From interaction to loop**: the question does not stop at whether an interface is usable. It continues to how interaction changes judgment, how judgment enters optimization, and how optimization shapes humans in return.
+- **Cross-layer evidence awareness**: behavioral data, physiological signals, experimental manipulation, failure cases, explanation interfaces, and running systems are often placed in the same chain of evidence.
+- **Case domains in service of method**: the value of different application domains is that they make these questions observable, controllable, and testable.
 
-- 图形、几何处理和 3D 系统确实长期重要，但更准确的角色是高密度案例域，而不是研究身份的唯一中心。
-- 它之所以显得分量很重，首先因为相关教学投入极大；其次因为它天然连接数学结构、交互界面、算法实现和工程合作。
-- 与 WAY digital solutions 的 mesh processing backend 合作，也说明这条线并非纯课堂产物，而确实落到过正式工程系统。
-- 但如果从学位论文、核心论文和近年的问题推进方向看，真正稳定的母题仍然是 human-in-the-loop / intelligence-in-the-loop。
+## The Real Place of Graphics, Geometry, and 3D Systems
 
-## 这页与相邻页面的边界
+- Graphics, geometry processing, and 3D systems remain important for a long time, but more as dense case domains than as the sole definition of research identity.
+- Their weight comes partly from large teaching investment and partly from the way they naturally connect mathematical structure, interaction interfaces, algorithmic implementation, and engineering collaboration.
+- Collaboration with WAY digital solutions on a mesh-processing backend also shows that this line was not confined to the classroom and did reach formal production systems.
+- Across theses, core papers, and recent directions, the most stable parent theme remains intelligence in the loop / human in the loop.
 
-- 这一页处理**研究如何形成**：路径、方法、研究簇和案例结构。
-- [human-systems.md](human-systems.md) 处理**这些研究最终汇成什么核心问题**：人如何作为判断者、使用者、群体成员和监督者进入系统。
-- [teaching-and-course-design.md](teaching-and-course-design.md) 处理**研究训练如何再被组织成课程、指导与培养结构**。
+## Boundary with Neighboring Pages
 
-## 参考页面
+- This page handles **how research was formed**: path, method, research clusters, and case structure.
+- [Human Systems, AI, and Social Structures](human-systems.md) handles **what core problem space these lines ultimately converge on**: how humans enter systems as judges, users, group members, and overseers.
+- [Teaching and Course Design](teaching-and-course-design.md) handles **how research training is reorganized into courses, supervision, and training structures**.
+
+## References
 
 - [changkun.de/research/](https://changkun.de/research/)
 - [The Intelligence in the Loop: Empirical Explorations and Reflections](https://changkun.de/thesis/phd.pdf)
@@ -67,6 +69,6 @@
 - [The Impact of Expertise in the Loop for Exploring Machine Rationality](https://changkun.de/paper/expertise.pdf)
 - [The Human in the Infinite Loop](https://changkun.de/paper/infloop.pdf)
 
-## 一句话总结
+## One-Sentence Summary
 
-这一页保留的不是“做过哪些论文”，而是正式研究训练如何把交互、行为、优化、自适应系统和案例域组织成一个持续演化的研究 program。
+This page keeps the way formal research training organized interaction, behavior, optimization, adaptive systems, and case domains into an evolving research line, rather than reducing the story to a list of papers.

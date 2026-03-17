@@ -1,147 +1,151 @@
-# 知识：长尾主题与非稳定写作
+# Knowledge: Long-Tail Topics and Unstable Writing
 
-这一部分收录那些确实写过、但未必已经沉淀成稳定知识的内容。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/long-tail-and-writing.md)
 
-它们仍然重要，只是重要的方式不同：有些属于短期技术试探，有些是阶段性判断，有些本来就不是知识，而是文化表达、自我记录、文学尝试，或者前沿笔记与未完稿。
+This section collects material that was genuinely written but did not necessarily settle into stable knowledge.
 
-如果前面几页尽量抽取“稳定主干”，这一页保留的就是主干外的缓冲区和边界区，用来防止整套知识库被过度整理得只剩一条干净主线。
+It still matters, but in different ways. Some of it belongs to short-term technical probing, some to stage-specific judgment, some to cultural expression, self-recording, literary attempts, frontier notes, or unfinished drafts. It does not all fit cleanly inside "knowledge."
 
-## 为什么单列
+If the earlier pages try to extract the stable trunk, this page keeps the buffer zone and boundary region outside that trunk so the corpus does not get overcompressed into a single overly narrow line.
 
-- 稳定知识页处理的是多年反复出现、彼此能串成主干的问题域。
-- 这一部分处理长尾内容、窗口期兴趣、现实观察与非知识写作。
-- 它们不一定构成长期专业能力，但能补足完整的写作版图。
+Unlike the cross-cultural life page, this page keeps topics and materials that have not yet fully settled, rather than stable background.
 
-## 公开笔记与未发布草稿
+## Why Keep It Separate
 
-公开短笔记和未发布草稿，同样构成这一部分的重要材料。
+- The stable knowledge pages handle problem domains that recur over many years and can be connected into a trunk.
+- This page handles long-tail material, window-period interests, observations of reality, and writing that is not straightforwardly knowledge writing.
+- These materials do not necessarily amount to long-term professional competence, but they do complete the writing landscape.
 
-### 公开笔记在补什么
+## Public Notes and Unpublished Drafts
 
-- 2020-2021 的公开笔记更像系统工程速记：Go 运行时、错误处理、内存模型、`io/fs`、异步抢占、Apple Silicon、基准测试等。
-- 2026 的公开笔记则明显转成研究卡片：agentic AI、approval scaling、偏好、道德判断、自指、身份、透明心智、哲学知识组织。
-- 它们的意义不在于“篇幅长”，而在于暴露了当下正在追的问题边界。
+Public short notes and unpublished drafts also form an important part of this layer.
 
-### 未发布草稿在补什么
+### What the Public Notes Add
 
-- 有些只是标题坑位，但也有不少高信息密度的未完稿。
-- 典型例子包括：`人机交互的过去、现在与未来`、`当我们进行学术演讲时，我们应该谈论什么`、`Electron 编写跨平台客户端的若干最佳实践`、`Intelligence in the Agentic Loop`。
-- 这些稿子说明，很多主题不是没想过，而是已经组织到相当接近正式发表的程度，只是没有最终收束成成品。
+- The 2020-2021 public notes look more like systems-engineering shorthand: Go runtime, error handling, memory models, `io/fs`, asynchronous preemption, Apple Silicon, benchmarking, and similar topics.
+- The 2026 public notes clearly shift toward research cards: agentic AI, approval scaling, preference, moral judgment, self-reference, identity, transparent minds, and the organization of philosophical knowledge.
+- Their value lies less in length than in the way they expose the boundaries of the questions being actively pursued.
 
-## 一次性技术探索
+### What the Unpublished Drafts Add
 
-这类文章大约有 30 余篇，特点是问题驱动、场景明确、写完即止，不一定继续发展成长期主线。
+- Some are only title placeholders, but many are still high-density unfinished drafts.
+- Typical examples include `The Past, Present, and Future of Human-Computer Interaction`, `What Should We Talk About When We Give Academic Presentations?`, `Several Best Practices for Building Cross-Platform Clients with Electron`, and `Intelligence in the Agentic Loop`.
+- These drafts show that many topics were already organized to a point close to formal publication, even if they were never fully closed into finished work.
 
-### 典型簇
+## One-Off Technical Exploration
 
-- 环境与工具折腾：WordPress 插件、OpenCV on Mac、Lua 一日游、MacTeX 卸载、Matlab 卡死、MySQL 安装/删除、`Python-MySQLdb`、Vim/Terminal 配色等。
-- 特定平台窗口期：MFC/Windows、WatchKit、Swift API 设计、微信小程序、Electron。
-- 特定技术栈试跑：Kaldi/TIMIT、Hash 碰撞、Apple LZFSE、Git/Githug、GitHub 敏感信息清理。
-- 零散架构与协议话题：RESTful API 设计、CAP 定理误解、WebSocket、WordPress 搬家与轻量部署。
+There are roughly 30 such pieces. They are problem-driven, scenario-specific, and often written once and left there, without necessarily turning into a long-term line.
 
-### 这类文章说明了什么
+### Typical Clusters
 
-- 学习速度快，愿意在新平台、新工具或新生态出现时迅速下手。
-- 很多文章不是为了建立长期理论体系，而是为了记录踩坑、复盘方案、给未来自己留路径。
-- 它们更像“技术试验台日志”，不是最终沉淀后的知识教科书。
+- environment and tool experiments: WordPress plugins, OpenCV on Mac, a one-day tour of Lua, uninstalling MacTeX, Matlab hangs, MySQL install/remove issues, `Python-MySQLdb`, Vim/Terminal color configuration
+- platform-window topics: MFC/Windows, WatchKit, Swift API design, WeChat mini-programs, Electron
+- stack trials: Kaldi/TIMIT, hash collisions, Apple LZFSE, Git/Githug, cleanup of sensitive information on GitHub
+- scattered architecture and protocol topics: RESTful API design, misunderstandings of the CAP theorem, WebSocket, WordPress migration, lightweight deployment
 
-### 参考示例
+### What These Pieces Show
 
-- 2013《通过安装 Wordpress 插件所学到的》
-- 2013《在 Mac 中配置 OpenCV》
-- 2014《Lua 一日游》系列
-- 2014《MacTeX 卸载方法》
-- 2014《Mac 下新安装的 MySQL 无法登陆 root 用户解决方法》
-- 2014《Python-MySQLdb 教程》
-- 2014《WatchKit 框架与 WatchApp 交互初窥》
-- 2015《Wordpress 站点搬家》
-- 2016《Githug 通关记录及指南》
-- 2016《Swift API 设计指南》
-- 2016《Kaldi 安装与部署》《Kaldi 上的 TIMIT 例子》《记一次完整的 Kaldi-TIMIT 示例运行》
-- 2017《Electron 深度实践总结》
-- 2018《Designing Asynchronous RESTful APIs》
-- 2018《分布式杂谈01：CAP 理论的误解》
+- fast learning speed and a willingness to move quickly when a new platform, tool, or ecosystem appears
+- many texts exist to record a problem, review a solution, and leave a path for the future self rather than to build a long-term theoretical system
+- they read more like technical workbench logs than like fully settled knowledge textbooks
 
-## 社会观察与职业判断
+### Example Items
 
-这一组内容不是严格的学术知识，更接近对现实结构的即时判断。
+- 2013: `What I Learned from Installing WordPress Plugins`
+- 2013: `Configuring OpenCV on Mac`
+- 2014: `A One-Day Tour of Lua`
+- 2014: `How to Uninstall MacTeX`
+- 2014: `How to Log In as Root After a Fresh MySQL Installation on Mac`
+- 2014: `Python-MySQLdb Tutorial`
+- 2014: `A First Look at WatchKit and WatchApp Interaction`
+- 2015: `Migrating a WordPress Site`
+- 2016: `Githug Walkthrough and Notes`
+- 2016: `Swift API Design Guidelines`
+- 2016: `Installing and Deploying Kaldi`, `A TIMIT Example on Kaldi`, `A Full Run of the Kaldi-TIMIT Example`
+- 2017: `Deep Practice Notes on Electron`
+- 2018: `Designing Asynchronous RESTful APIs`
+- 2018: `Distributed Miscellany 01: Misunderstandings of CAP Theory`
 
-### 主题范围
+## Social Observation and Career Judgment
 
-- 学科与职业：数学系就业、计算机专业应该学什么、对后辈同学的答疑、实习阶段感受。
-- 社会与平台：告别社交网络、产品经理日常、为什么美国学生数学更简单却能做出很强的东西。
-- 现实制度体验：德国医疗观念与住院体验。
+This group is not strict academic knowledge. It is closer to stage-specific judgments about real structure.
 
-### 这类文章的意义
+### Topic Range
 
-- 不是形成了某套成熟理论，而是记录了某一时期对教育、行业、制度和社交结构的直观理解。
-- 很多判断后来会被更成熟的文章吸收、修正或扩展，因此它们像“思想前史”。
-- 它们对完整画像有价值，因为能看到知识之外的现实敏感度。
+- discipline and career: mathematics-major employment, what computer-science students should learn, replies to younger peers, internship reflections
+- society and platforms: leaving social networks, the daily life of product managers, why U.S. students can build strong things with simpler mathematics
+- institutional experience: German medical ideas and hospitalization
 
-### 参考示例
+### What These Pieces Matter For
 
-- 2012《数学系就业方向小谈》
-- 2014《产品经理的日常》
-- 2014《为什么美国学生学的数学比我们简单却还能做出很牛逼的东西？》
-- 2015《告别社交网络有多难》
-- 2016《谈谈过去三个月在实验楼的实习经历》
-- 2017《在德国的医疗及住院体验》
-- 2017《对后辈同学在计算机专业上的答疑与解惑》
+- They record direct understandings of education, industry, institutions, and social structure at a certain period without yet forming a mature theory.
+- Many of those judgments are later absorbed, corrected, or expanded in more mature writing, so they work more like intellectual prehistory.
+- They matter for the full picture because they show a sensitivity to reality outside knowledge itself.
 
-## 文化评论与媒介观看
+### Example Items
 
-这一组内容既不是技术，也不完全是人生感悟，更像审美、叙事直觉和文化理解的侧写。
+- 2012: `A Brief Talk on Employment Directions for Mathematics Majors`
+- 2014: `The Daily Life of a Product Manager`
+- 2014: `Why Can American Students Learn Simpler Mathematics Yet Still Build Very Strong Things?`
+- 2015: `How Hard Is It to Leave Social Networks?`
+- 2016: `On My Three-Month Internship at Shiyanlou`
+- 2017: `Medical Care and Hospitalization in Germany`
+- 2017: `Answers and Advice for Younger Students in Computer Science`
 
-### 常见类型
+## Cultural Commentary and Media Viewing
 
-- 电影与影视评论：`《2012》`、`《Her》`、`《乔布斯》`、`Harry Potter` 重温。
-- 文学与跨文本联想：`《女儿情》——你在红楼我在西游`。
-- 技术文化观看：`《互联网时代》` 的观看记录。
+This group spans aesthetics, narrative instinct, and cultural understanding. It reads more like a side profile than a formal argument.
 
-### 这类文章透露的倾向
+### Common Types
 
-- 对“技术如何改变人和关系”很敏感，这在《Her》这类题材里尤其明显。
-- 喜欢从作品中抽离结构、隐喻和角色关系，而不只是写感想。
-- 文化输入长期在为后来的 AI、人机关系、主体性问题提供情绪和概念底色。
+- film and TV commentary: `2012`, `Her`, `Jobs`, revisiting `Harry Potter`
+- literary and cross-text association: `Daughter's Love: You in Dream of the Red Chamber, I in Journey to the West`
+- technical-culture viewing: notes on `The Internet Age`
 
-## 个人写作、小说与抒情档案
+### What These Pieces Reveal
 
-这组文本不宜被强行知识化，但也不能遗漏。
+- a strong sensitivity to how technology changes people and relationships, especially in works such as *Her*
+- a tendency to extract structure, metaphor, and character relations from works rather than merely writing reaction pieces
+- cultural input that provides emotional and conceptual background for later questions about AI, human-machine relations, and subjectivity
 
-### 主要构成
+## Personal Writing, Fiction, and Lyric Archives
 
-- 大量早年 QQ 空间日志、散文、诗歌与情绪性写作。
-- 少量更完整的小说尝试，例如《X-2222 计划》《泽缘》《小 Q 自传》。
-- 很多短文其实更像成长时期的自我叙述，而不是观点文章。
+These texts should not be forced into a knowledge frame, but they should not be omitted either.
 
-### 如何看待它们
+### Main Components
 
-- 它们不是“知识资产”，而是时间性的自我档案。
-- 它们保留了语言风格、情绪密度、审美偏好和人生阶段变化。
-- 如果只看稳定知识，会遗漏写作者作为一个人的形成过程；这里保留的正是这一层。
+- a large quantity of early QQ Space logs, essays, poems, and emotional writing
+- a smaller number of more complete fiction attempts, such as `Project X-2222`, `Zeyuan`, and `Little Q Autobiography`
+- many short texts that are closer to self-narration from a period of growth
 
-## 年度总结、读书清单与博客元写作
+### How To Read Them
 
-这一组文本介于知识与人生之间，是理解全貌的重要入口之一。
+- They are closer to temporal self-archives than to knowledge assets.
+- They preserve language style, emotional density, aesthetic preference, and shifts across life stages.
+- If one only reads the stable knowledge pages, one misses the formation of the writer as a person. This page keeps that layer.
 
-### 规模
+## Yearly Summaries, Reading Lists, and Meta-Writing About the Blog
 
-- 读书清单类文章约 11 篇。
-- 年终总结、阶段总结类文章约 19 篇。
-- 另有若干关于博客本身的文章，例如《博客十年》《我为什么不再写博客了？》。
+This group sits between knowledge and life and is one of the key entry points for understanding the whole.
 
-### 为什么重要
+### Scale
 
-- 读书清单记录的是“输入结构”如何变化。
-- 年终总结记录的是“生活处境、研究方向、职业角色”如何变化。
-- 博客元写作记录的是“为什么写、怎么组织知识、何时停止写”。
+- about 11 reading-list posts
+- about 19 year-end or stage-summary posts
+- several posts about the blog itself, such as `Ten Years of Blogging` and `Why I No Longer Blog`
 
-### 它们在整个知识库中的位置
+### Why They Matter
 
-- 不是稳定知识主干，但它们解释了主干为何会变化。
-- 不是单纯日记，因为其中持续总结了阅读结构、职业判断、教学经验和创作方法。
-- 如果要理解从数学少年到系统工程师，再到关注哲学与主体性的路径，这些文章比单篇技术文更关键。
+- reading lists record how the structure of input changes
+- yearly summaries record how life situation, research direction, and professional role change
+- blog meta-writing records why to write, how to organize knowledge, and when to stop
 
-## 一句话总结
+### Their Position in the Corpus
 
-如果其他专题页回答的是“长期会什么、一直在想什么”，这里回答的则是“还写过什么、探索过什么、又是如何一路走到这些稳定知识领域上的”。
+- They do not belong to the stable knowledge trunk, but they explain why that trunk changes.
+- They keep summarizing reading structure, career judgment, teaching experience, and creative method, so they already go beyond diary writing.
+- If one wants to understand the path from mathematics-focused youth to systems engineer and then to philosophy and subjectivity, these pieces are often more revealing than single technical posts.
+
+## One-Sentence Summary
+
+If the other topic pages answer "what remains stable over the long term," this page answers "what else was written, what else was explored, and how the path reached those stable knowledge domains."

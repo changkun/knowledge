@@ -1,90 +1,94 @@
-# 知识库
+# Knowledge Base
 
-> 注：公开出处统一使用网站链接；未发布草稿仅保留题名，不使用仓库内部路径。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/README.md)
 
-本库按主题归纳欧长坤长期出现的知识领域、问题意识与写作取向。重点不在经历清单式罗列，而在持续性的兴趣、方法与判断；不过这里参考的材料也不只限于博客正文，而是同时吸收了能够稳定界定专业轨迹的教育、研究、工作、教学与开源经历，以及 GitHub 上那些本身就以课程、论文工件、教程、翻译、阅读清单和知识基础设施形态存在的仓库。
+> Note: public references should use website links. Unpublished drafts keep titles only and should not expose internal repository paths.
 
-它不是十篇彼此并列的词条，而更像一张分层展开的知识地图：底层是数学、系统与语言观，中层是研究主题与人机问题，上层是教学、开源与写作这些公共输出，外围则是跨文化生活与长尾写作提供的背景和边界。
+This corpus organizes Changkun Ou's long-term knowledge domains, recurring questions, and writing tendencies by theme. The emphasis is on durable methods, judgments, and boundaries rather than on a list of experiences. The source material goes beyond blog posts and includes education, research, work, teaching, and open-source experience, as well as GitHub repositories that already function as courses, paper artifacts, tutorials, translations, reading lists, or knowledge infrastructure.
 
-## 参考范围
+It is closer to a layered knowledge map than to an archive. The foundation layer covers mathematics, systems, and language judgment. The middle layer covers research formation and human-in-the-loop problems. The upper layer covers teaching, open-source work, and writing as public output. The outer layer preserves the background and edge zones provided by cross-cultural life and long-tail writing.
 
-- 参考材料覆盖 2009 至 2026 年的公开文章、公开笔记、专题页、教程页、项目页，以及少量未发布草稿。
-- 同时参考了正式教育、研究、工作、教学与开源经历，用来校准时间线、专业身份与领域边界。
-- 研究材料主要参考公开研究主页、论文、学位论文、答辩与讲稿；未发布研究计划稿只用于判断近年的问题推进方向，不直接当作既成结论。
-- GitHub 上的公开仓库也被当作正文材料来读，尤其是课程仓库、研究工件、书籍与教程仓库、翻译清单、阅读清单与论文模板这类高知识密度仓库。
-- 其中不包含图片、静态资源、标签页或站点配置文件这类非正文材料。
-- 较早期的 QQ 空间导入文本中有较多重复稿和短札；这里主要依据内容完整、能够稳定反映问题意识的文本。
+## Scope
 
-## 总体画像
+- The reference material spans public posts, public notes, topic pages, tutorial pages, project pages, and a small number of unpublished drafts from 2009 to 2026.
+- Formal education, research, work, teaching, and open-source experience are used to calibrate the timeline, professional identity, and domain boundaries.
+- Research material is anchored mainly in the public research record: research pages, papers, theses, defenses, and talks. Unpublished research plans are used only to clarify recent directions, not to claim finished results.
+- Public GitHub repositories are also read as core source material, especially high-density knowledge repositories such as course repos, research artifacts, books, tutorials, translation catalogs, reading lists, and thesis templates.
+- Images, static assets, tag pages, and site configuration files are outside the scope.
+- Earlier imported QQ Space texts contain many duplicate drafts and short notes. Priority is given to texts that are complete enough to reflect stable concerns.
 
-- 起点是纯数学兴趣，尤其偏爱集合论、公理化、序关系、测度、证明结构与“定义为什么这样设”。
-- 进入计算机之后，长期关注的不是某个单一框架，而是系统为何成立：运行时、内核、内存、性能测量、源码设计、基础设施与工程约束。
-- 对 AI 的理解不是单纯的模型乐观主义，而是同时从统计学习理论、人机交互、人肉计算、社会系统、主体性和自指问题去看。
-- 正式研究主线并不是某个单一应用域，而是围绕“人怎样进入决策、优化与反馈闭环”展开，具体落在行为理解、人在环优化、adaptive VR/AR、crowd + machine learning 与 agent oversight 等不同案例。
-- 一些高投入案例域会在研究、教学与工程中反复出现，但它们更适合理解为承载方法和问题意识的落点，而不是唯一中心。
-- 这些兴趣后来又分别落实为 HCI/人机闭环研究、LMU 教学、跨平台产品开发、企业 AI 平台与收益优化系统。
-- 近年的公开笔记表明，AI 关注点已经推进到 agentic workflow、human-in-the-loop、责任链、确认疲劳、偏好建模与自指机制。
-- 专题页、教程页和项目页表明，这些知识并不只通过长文表达，也长期通过课程仓库、教程书、研究工件、项目归档和交互原型来表达。
-- 开源与公共输出不是博客副业，而是长期职业身份的一部分：Go/Fyne 社区、golang.design、TalkGo、翻译与公共教程构成了另一条稳定主线。
-- 从成都到慕尼黑的长期迁移，以及中文、英文、德语之间的切换，也让后期写作越来越带有跨文化和制度比较视角。
-- 近年的文化重心明显从工程上的“怎么做”转向“为什么做、为谁做、这种结构如何长期稳定”。
+## Overall Profile
 
-## 如何阅读
+- The starting point is mathematics, especially set theory, axiomatization, order, measure, proof structure, and the question of why a definition is set up the way it is.
+- After moving into computer science, the focus turns to why systems hold together: runtime, kernels, memory, performance measurement, source design, infrastructure, and engineering constraints, without being tied to one framework.
+- AI is approached through statistical learning theory, HCI, human computation, social systems, agency, and self-reference, rather than through model optimism alone.
+- The formal research line centers on how humans enter decision, optimization, and feedback loops, across behavior understanding, human-in-the-loop optimization, adaptive VR/AR, crowd + machine learning, and agent oversight.
+- Several high-investment case domains recur across research, teaching, and engineering, but they function mainly as carriers of method and problem consciousness.
+- These interests later take shape as HCI and human-machine-loop research, LMU teaching, cross-platform product development, enterprise AI platforms, and revenue optimization systems.
+- Recent public notes show the AI focus moving toward agent workflows, human-in-the-loop oversight, responsibility chains, confirmation fatigue, preference modeling, and self-referential mechanisms.
+- The knowledge is expressed not only through long-form essays, but also through course repositories, tutorial books, research artifacts, project archives, and interaction prototypes.
+- Open source and public output form a durable part of the professional identity: the Go and Fyne communities, `golang.design`, TalkGo, translation work, and public tutorials make up another stable line.
+- The long migration from Chengdu to Munich, together with switching across Chinese, English, and German, gradually adds cross-cultural and institutional comparison to later writing.
+- In recent years the cultural center of gravity has also shifted from "how to build" toward "why to build, for whom, and how a structure remains stable over time."
 
-### 一、基础层：世界怎样被形式化，又怎样被做成系统
+## How To Read
 
-- [数学与学习理论](math-and-learning.md)
-- [系统与工程](systems-and-engineering.md)
-- [编程语言、平台与产品感](languages-platforms-and-products.md)
+### 1. Foundation Layer: how the world is formalized and then turned into systems
 
-这一层对应最稳定的底层气质：公理化、机制意识、产品边界感。
+- [Mathematics and Learning Theory](math-and-learning.md)
+- [Systems and Engineering](systems-and-engineering.md)
+- [Programming Languages, Platforms, and Product Judgment](languages-platforms-and-products.md)
 
-### 二、研究层：这些基础最终汇成什么正式问题
+This layer captures the deepest recurring tendencies: axiomatization, mechanism-first thinking, and a sense for product boundaries.
 
-- [博士阶段与研究形成](doctoral-training-and-research-formation.md)
-- [人机、AI 与社会系统](human-systems.md)
+### 2. Research Layer: what formal problems these foundations eventually become
 
-这一层对应研究与产业里最核心的正式问题域：一页处理研究训练、方法和主要研究簇如何成形，另一页处理它们最终汇合成的人机闭环、偏好、责任链与组织系统问题；其中具体应用场景更多作为案例域出现，而不是唯一中心。
+- [Doctoral Training and Research Formation](doctoral-training-and-research-formation.md)
+- [Human Systems, AI, and Social Structures](human-systems.md)
 
-### 三、输出层：知识怎样被重新组织给别人
+This layer covers the central formal problem space across research and industry. One page focuses on how research training, methods, and major clusters were formed. The other focuses on how those lines converge on human-machine loops, preference, responsibility chains, and organizational systems.
 
-- [教学与课程设计](teaching-and-course-design.md)
-- [开源、演讲与公共输出](open-source-and-public-output.md)
-- [写作、研究与文化世界](writing-and-culture.md)
+### 3. Output Layer: how knowledge is reorganized for others
 
-这一层处理的不是“知道什么”，而是“怎样把知道的东西组织成课程、项目、论文、书、模板、社区和公共表达”。
+- [Teaching and Course Design](teaching-and-course-design.md)
+- [Open Source, Talks, and Public Output](open-source-and-public-output.md)
+- [Writing, Research, and the Cultural World](writing-and-culture.md)
 
-### 四、背景层：这些判断在什么生活世界里形成
+This layer shows how knowledge is reorganized into courses, projects, papers, books, templates, communities, and public expression. One page emphasizes teaching and training structures, one public repositories and knowledge infrastructure, and one writing method, research judgment, and cultural orientation.
 
-- [跨文化生活与媒介世界](cross-cultural-life-and-media.md)
-- [长尾主题与非稳定写作](long-tail-and-writing.md)
+### 4. Background Layer: the life world in which these judgments took shape
 
-这一层不是主干本身，但它解释了主干为何会这样变化，也保留了那些不适合硬塞进主干、却真实参与了形成过程的材料。
+- [Cross-Cultural Life and the Media World](cross-cultural-life-and-media.md)
+- [Long-Tail Topics and Unstable Writing](long-tail-and-writing.md)
 
-## 稳定的方法论
+This layer is not the trunk itself, but it explains why the trunk changed in the way it did. It also keeps materials that genuinely shaped the process without fitting cleanly into the core. One page preserves stable life background and media environment. The other keeps long-tail material that has not settled into the main line.
 
-- 公理化：喜欢追问系统的最小前提、对象的构造方式、定义背后的必要性。
-- 结构化：偏好从整体结构、约束条件和边界出发，而不是只罗列经验技巧。
-- 机制优先：面对性能、理论或工程问题时，倾向先追到底层机制，再谈表层实践。
-- 深度优先：随着时间推移，越来越强调长期实践形成的深度，而不是广度型炫技。
-- 交叉视角：数学、工程、社会选择、哲学与个人经验常被放在同一问题链条里思考。
+## Stable Methodological Tendencies
 
-## 一条清晰的演化线
+- Axiomatization: ask for the minimal premises of a system, the construction of objects, and the necessity behind definitions.
+- Structural thinking: start from whole structures, constraints, and boundaries rather than from loose collections of tricks.
+- Mechanism first: when facing performance, theory, or engineering questions, trace the underlying mechanism before talking about surface practice.
+- Depth first: over time, place more weight on depth built through long practice and less on breadth for display.
+- Cross-domain framing: mathematics, engineering, social choice, philosophy, and personal experience often enter the same chain of questions.
 
-- 2009-2013：高强度数学自学，随后进入 C/C++、算法、OpenCV、Linux 与基础课程世界。
-- 2014-2018：从计算机视觉与机器学习进一步转向统计学习理论、人机交互、人肉计算与系统化写作，并在德国完成向 HCI 与研究训练的阶段转轨。
-- 2018-2023：LMU 的研究与教学阶段，使 web behavior、人机闭环、人在环优化、adaptive VR/AR、课程设计、案例域实践、Go/runtime 与公共输出并行推进。
-- 2022-2026：进入企业工程与 AI 平台阶段，在收益优化、agent workflow、knowledge management、偏好建模与组织级 AI 转型中继续把研究兴趣落到生产系统。
+## A Clear Line of Development
 
-如果按上面的四层去看，这条演化线就更清楚了：先形成基础层，再汇入研究层，再不断长出输出层，而背景层始终在外围重塑重心。
+- 2009-2013: intensive self-study in mathematics, then entry into C/C++, algorithms, OpenCV, Linux, and foundational coursework.
+- 2014-2018: a turn from computer vision and machine learning toward statistical learning theory, HCI, human computation, and systematic writing, together with a research-training shift in Germany.
+- 2018-2023: the LMU period, where web behavior research, human-machine loops, human-in-the-loop optimization, adaptive VR/AR, course design, case-domain work, Go runtime study, and public output advance in parallel.
+- 2022-2026: enterprise engineering and AI platform work, where revenue optimization, agent workflows, knowledge management, preference modeling, and organizational AI transformation become production contexts for earlier research interests.
 
-## 本库关注什么
+Viewed through the four layers above, this line becomes clearer: the foundation layer forms first, then converges into the research layer, then keeps growing outward into the output layer, while the background layer continues to shift the center of gravity from the outside.
 
-- 不是“会过哪些技术”的流水账，而是长期反复出现的知识主干。
-- 不是短期热点判断，而是那些跨越多年仍然稳定存在的关注点。
-- 不是自我包装，而是从长期写作、项目与正式经历中反推出的思考习惯、领域边界与文化取向。
+## What This Corpus Tracks
 
-## 补充说明
+- Durable knowledge lines that recur over many years, rather than a running list of technologies once used.
+- Questions that remain stable across time, rather than short-cycle judgments driven by hype.
+- Thinking habits, domain boundaries, and cultural orientation reconstructed from long-term writing, projects, and formal experience, without self-packaging.
 
-- 各专题页聚焦较稳定的知识领域。
-- [长尾主题与非稳定写作](long-tail-and-writing.md) 收录阶段性判断、一次性技术试验、文化评论与未完成稿件，用来保留更完整的写作版图。
+## Notes
+
+- Each topic page focuses on relatively stable knowledge domains.
+- [Long-Tail Topics and Unstable Writing](long-tail-and-writing.md) keeps stage-specific judgments, one-off technical experiments, cultural commentary, and unfinished drafts to preserve a fuller writing map.
+- [Terminology](terminology.md) maintains cross-page Chinese/English term pairs and preferred default forms.
+- Chinese mirror pages are stored under `zh/` and linked from the language badge at the top of each page.

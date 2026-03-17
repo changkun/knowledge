@@ -1,74 +1,78 @@
-# 知识：编程语言、平台与产品感
+# Knowledge: Programming Languages, Platforms, and Product Judgment
 
-编程语言、平台生态和产品体验，构成了另一条长期而稳定的观察线。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/languages-platforms-and-products.md)
 
-如果系统页更关注软件如何运转，这一页更关注软件如何被设计、包装、交付和体验到。
+Programming languages, platform ecosystems, and product experience form another long-running line of observation.
 
-## 编程语言观
+If the systems page is more concerned with how software runs, this page is more concerned with how software is designed, packaged, delivered, and experienced.
 
-在 [changkun.de/blog/posts/2014-03-22-谈谈对编程语言的一般性认识/](https://changkun.de/blog/posts/2014-03-22-谈谈对编程语言的一般性认识/) 里，重点并不是“会多少门语言”，而是：
+Within the foundation layer, this page fills in what the systems page leaves less developed: language design, platform migration, and product boundaries.
 
-- 语言的运行时机制差异
-- 静态绑定 vs 动态绑定
-- 编译期 vs 运行期职责划分
-- 不同范式背后的设计思想
+## View of Programming Languages
 
-这说明语言在这里不是纯工具，而是理解程序组织方式的入口。
+In [changkun.de/blog/posts/2014-03-22-谈谈对编程语言的一般性认识/](https://changkun.de/blog/posts/2014-03-22-谈谈对编程语言的一般性认识/), the emphasis falls on:
 
-## 平台迁移经验
+- differences in runtime mechanisms
+- static versus dynamic binding
+- the division of responsibility between compile time and run time
+- the design ideas behind different paradigms
 
-Apple / Mac 这条经验线延续了很长时间。
+Languages function here as an entry point into how programs are organized, and they shape system judgment as well.
 
-- 从 iPhone 开始对 Apple 产品建立产品层面的信任。
-- 很早就认真写过 [changkun.de/blog/posts/2013-09-19-从Windows到Macintosh/](https://changkun.de/blog/posts/2013-09-19-从Windows到Macintosh/)。
-- 对 WatchKit、Swift、Apple Watch 交互、平台限制等都做过快速而具体的跟进。
+## Platform Migration Experience
 
-这里真正有价值的不是某个 API 细节是否过时，而是：
+The Apple and Mac line runs for a long time.
 
-- 会主动比较平台的整体体验与工具链生态。
-- 会把“平台能力”和“用户体验边界”一起看。
-- 很早就意识到硬件、系统和交互设计之间不是割裂的。
+- Product-level trust in Apple starts with the iPhone.
+- A systematic early reflection appears in [changkun.de/blog/posts/2013-09-19-从Windows到Macintosh/](https://changkun.de/blog/posts/2013-09-19-从Windows到Macintosh/).
+- WatchKit, Swift, Apple Watch interaction, and platform constraints all receive quick and concrete follow-up.
 
-## 交互原型与设备实验
+What matters more here is:
 
-- Demo、本科论文与 AugmentedTouch 这类项目页共同指向一条更早的设备交互线。
-- 早期做过 Windows 手势识别软件 Demo，后来又做了智能手表非接触式控制、本科论文相关原型，以及 AugmentedTouch 这样的交互技术项目。
-- 这说明“产品感”并不只是评论层面的判断，而是曾经直接落在摄像头、手势、可穿戴设备和交互原型上的实践。
+- a habit of comparing whole-platform experience with toolchain ecology
+- a tendency to look at platform capability and user-experience boundaries together
+- early recognition that hardware, systems, and interaction design move together
 
-## 从设备到平台产品
+## Interaction Prototypes and Device Experiments
 
-- 2016 的实习经历里已经出现跨平台桌面应用，这和后面写博客客户端、折腾 Electron 的路线是接上的。
-- 2017-2018 做过面向语言学习者的实时语音 bot，覆盖 Web 与 Amazon Alexa，这让语音、平台限制和产品反馈之间的真实工程经验也进入了这条线。
-- 2018-2019 又做过 remote desktop proxy、多云资源管理和容器/实例混合管理服务，说明产品感不只在前台交互，也在复杂平台能力的抽象方式上。
-- 2022 之后则把这条线推进到企业产品层：AI chat interface、self-service agent builder、low-code platform、document processing pipeline、knowledge system。
-- 这说明这里的“产品感”跨过了设备交互、桌面端、语音端、云平台与企业 AI 工具链，而不是停留在某一种终端或某一个框架。
+- Demo pages, the bachelor's thesis, and projects like AugmentedTouch all point to an earlier device-interaction line.
+- Early work includes a Windows gesture-recognition demo, later contact-free smartwatch control, thesis-related prototypes, and interaction-technology projects such as AugmentedTouch.
+- Product judgment therefore appears directly in hands-on work with cameras, gestures, wearables, and interaction prototypes.
 
-## 产品感
+## From Devices to Platform Products
 
-这类判断常常被隐藏在技术文背后。
+- The 2016 internship already includes a cross-platform desktop application, which connects directly to later blog clients and Electron practice.
+- In 2017-2018, a real-time voice bot for language learners was built across the web and Amazon Alexa, bringing real engineering experience with voice, platform constraints, and product feedback into this line.
+- In 2018-2019, remote desktop proxying, multi-cloud resource management, containers, and hybrid instance-management services show that product judgment also appears in how complex platform capability is abstracted.
+- After 2022, this line extends into enterprise products: AI chat interfaces, self-service agent builders, low-code platforms, document-processing pipelines, and knowledge systems.
+- Product judgment here therefore spans device interaction, desktop software, voice interfaces, cloud platforms, and enterprise AI tooling rather than settling on a single terminal or framework.
 
-- 对 Apple 产品和工业设计有持续兴趣。
-- 在早年总结中提到自己通过大量设备评测、Google I/O、WWDC 等内容逐渐接触工业设计与商业。
-- 在 HCI 学习之后，产品感不再只是审美偏好，而是开始转化为“人应被放在第一位”的理解；可穿戴、语音、浏览行为和自助式 agent builder 这些经历里都能看到这一点。
+## Product Judgment
 
-## 小型产品实验
+Much of this judgment sits behind technical writing rather than in front of it.
 
-博客并不只是文章容器，也被多次当作产品来折腾。
+- There is a sustained interest in Apple products and industrial design.
+- Early yearly summaries already mention learning about industrial design and business through device reviews, Google I/O, WWDC, and similar material.
+- After formal HCI training, product judgment shifts from aesthetic preference toward a clearer understanding that people should be placed first. Wearables, voice systems, browsing behavior, and self-service agent builders all show this change.
 
-- 做过博客客户端
-- 做过桌面客户端
-- 做过移动客户端相关尝试
-- 做过 RESTful API 与站点侧边栏下载入口等产品化小实验
-- 还曾系统总结过 Electron 跨平台客户端实践，说明这种实践并不是零星尝试，而是认真踩过产品工程化的坑。
+## Small Product Experiments
 
-这说明“给自己做一个产品”在这里是一种长期冲动。
+The blog has repeatedly been treated as a product, with articles as only one content form among others.
 
-## 这一页和系统页的区别
+- blog clients
+- desktop clients
+- mobile-client experiments
+- small productized experiments such as RESTful APIs and downloadable sidebar entries on the site
+- a systematic retrospective on Electron-based cross-platform clients, showing that the product-engineering issues were fully worked through
 
-- 系统页更偏运行时、内核、性能、部署。
-- 这一页更偏语言设计、平台体验、产品边界与交互手感。
+"Build a product for oneself" is a durable tendency here.
 
-## 参考文章与页面
+## Boundary with the Systems Page
+
+- The systems page focuses more on runtime, kernels, performance, and deployment.
+- This page focuses more on language design, platform experience, product boundaries, and interaction feel.
+
+## References
 
 - [changkun.de/blog/posts/2013-09-19-从Windows到Macintosh/](https://changkun.de/blog/posts/2013-09-19-从Windows到Macintosh/)
 - [changkun.de/blog/posts/2014-03-22-谈谈对编程语言的一般性认识/](https://changkun.de/blog/posts/2014-03-22-谈谈对编程语言的一般性认识/)
@@ -78,10 +82,10 @@ Apple / Mac 这条经验线延续了很长时间。
 - [changkun.de/blog/bachelorthesis/](https://changkun.de/blog/bachelorthesis/)
 - [changkun.de/blog/augmentedtouch/](https://changkun.de/blog/augmentedtouch/)
 - [changkun.de/blog/clients/](https://changkun.de/blog/clients/)
-- 未发布草稿《基于 Electron 编写跨平台客户端的若干实践》
+- Unpublished draft: `Several Practices for Building Cross-Platform Clients with Electron`
 - [changkun.de/blog/posts/2016-09-04-博客客户端发布/](https://changkun.de/blog/posts/2016-09-04-博客客户端发布/)
 - [changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/](https://changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/)
 
-## 一句话总结
+## One-Sentence Summary
 
-这里的语言与平台兴趣，本质上是通过工具链、交互方式和产品边界去理解“软件究竟应该怎样被设计和使用”。
+The interest in languages and platforms is, at root, a way of understanding how software should be designed and used through toolchains, interaction forms, and product boundaries.

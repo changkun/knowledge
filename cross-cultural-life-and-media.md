@@ -1,87 +1,89 @@
-# 知识：跨文化生活与媒介世界
+# Knowledge: Cross-Cultural Life and the Media World
 
-留学、德国生活、语言切换、旅行、媒介观看和文化趣味，共同构成了后期思考方式的生活背景。
+[![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/cross-cultural-life-and-media.md)
 
-这些经验不是专业主干，却明显改变了写作方式、阅读结构和问题意识。
+Study abroad, life in Germany, language switching, travel, media intake, and cultural taste together form the lived background of later ways of thinking.
 
-这页在整套知识库里属于背景层。它不是边角补遗，而是后期很多判断为何会转向制度比较、主体性和生活结构问题的现实来源。
+These experiences are not part of the professional trunk, but they clearly change writing, reading structure, and problem consciousness.
 
-## 长期生活背景
+This page belongs to the background layer of the corpus and helps explain why many later judgments turn toward institutional comparison, subjectivity, and questions of life structure.
 
-- 本科阶段的地理起点在成都，而硕士、博士、研究与工业工作长期落在慕尼黑，这说明跨文化生活不是一段插曲，而是持续十年的现实背景。
-- 语言条目也把这种环境固定下来：中文母语、专业商务英语流利、德语基础。
-- 这意味着很多关于语言切换、制度差异、适应与自我重组的文章，并不是偶发心情，而是长期生活结构的直接反映。
+Unlike the long-tail page, this page keeps relatively stable living conditions and media environment rather than scattered material.
 
-## 跨文化生活
+## Long-Term Life Background
 
-2015 之后，慕尼黑与德国生活开始成为长期背景。
+- The geographical starting point is Chengdu in the undergraduate period, while the master's, doctorate, research, and industry work are all centered for the long term in Munich. This creates a distinctly long cross-cultural background stretching across roughly a decade.
+- Language entries stabilize that environment as well: native Chinese, fluent professional business English, and basic German.
+- Many later texts on language switching, institutional difference, adaptation, and self-reorganization therefore come directly from long-term life structure rather than momentary mood.
 
-### 反复出现的主题
+## Cross-Cultural Life
 
-- 初到德国的语言不适与生活秩序冲击
-- 对德国学术氛围、时间安排、预约文化、福利结构的观察
-- 从英语思考到再补德语
-- 从“想尽快适应”转向“把这种环境当成重新组织自我的机会”
+After 2015, Munich and life in Germany become a long-term background.
 
-这些内容在下面几篇里最明显：
+### Recurring Themes
+
+- early discomfort with language and everyday order after arriving in Germany
+- observations on German academic atmosphere, time structure, appointment culture, and welfare systems
+- the shift from thinking in English to rebuilding German
+- the shift from "adapting as quickly as possible" to treating the environment as an opportunity to reorganize the self
+
+These themes are most visible in the following pieces:
 
 - [changkun.de/blog/posts/2015-10-24-转眼就快两个月了/](https://changkun.de/blog/posts/2015-10-24-转眼就快两个月了/)
 - [changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/](https://changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/)
 - [changkun.de/blog/posts/2017-05-11-德国的医疗观念/](https://changkun.de/blog/posts/2017-05-11-德国的医疗观念/)
 - [changkun.de/blog/posts/2020-02-01-2019-年终总结/](https://changkun.de/blog/posts/2020-02-01-2019-年终总结/)
 
-## 旅行与世界尺度
+## Travel and World Scale
 
-2018、2019、2020 的总结里，旅行不是打卡，而更像“把自己放到不同结构里重新校准”。
+In the 2018, 2019, and 2020 summaries, travel appears less as sightseeing and more as recalibrating oneself by being placed into different structures.
 
-- 柏林、纽约、维也纳、佛罗伦萨、威尼斯、格拉斯哥等城市常常作为认知触发器出现。
-- 旅行经验经常和职业、自由、人生阶段判断绑在一起，而不是停留于风景描写。
-- 到 2026 的自指长文里，这种经验甚至已经被抽象成“路径比目的地更重要”的结构性观点。
+- Cities such as Berlin, New York, Vienna, Florence, Venice, and Glasgow often appear as cognitive triggers.
+- Travel experience is repeatedly tied to judgments about career, freedom, and life stage, going well beyond landscape description.
+- By the 2026 long essay on self-reference, the experience is abstracted into a structural view that the path matters more than the destination.
 
-## 语言与思维
+## Language and Thought
 
-- 明确写过英语进入思考系统、母语表达变差、德语学习带来的心智变化。
-- 语言不只是沟通工具，也影响了写作速度、概念检索和自我定位。
-- 这能解释后期为什么越来越关心表达结构、翻译、证据与概念边界。
+- There are explicit reflections on English entering the thinking system, on the weakening of native-language expression, and on the mental changes brought by learning German.
+- Language also affects writing speed, concept retrieval, and self-positioning.
+- This helps explain the later concern with expression structure, translation, evidence, and conceptual boundaries.
 
-## 媒介世界
+## The Media World
 
-`about` 页长期把电影、剧集、阅读、摄影列为兴趣项。
+The blog's about page has long listed film, TV, reading, and photography as interests.
 
-较为显性的公开材料包括：
+More visible public material includes:
 
-- 《Her》观后感
-- 《乔布斯》观后感
-- 《Harry Potter》重温
-- 《互联网时代》观看记录
-- 若干影评、歌词联想与文学式短文
+- writing on *Her*
+- writing on *Jobs*
+- revisiting *Harry Potter*
+- viewing notes on *The Internet Age*
+- a number of film reviews, lyric associations, and literary short pieces
 
-这些文章数量不算特别大，但作用明显：
+These pieces are not numerous, but their role is clear:
 
-- 它们给技术问题提供情绪底色。
-- 它们让“主体、爱、媒介、机器、人”之间的关系不只来自学术文本，也来自作品经验。
+- they provide emotional background for technical questions
+- they let relationships among subject, love, media, machine, and human come not only from academic texts but also from works of art
 
-## 摄影与审美
+## Photography and Aesthetics
 
-摄影在文章中不是高频主线，但属于明确存在的外围兴趣。
+Photography appears infrequently in the writing, but it is a clearly present peripheral interest.
 
-- `about` 页长期把摄影列为兴趣。
-- 早年计划中出现过学摄影、影视制作。
-- 也有少量摄影技巧类转载或记录。
+- it is listed on the blog's about page for a long time
+- early plans mention learning photography and film production
+- a small number of photography tips and reposted notes also appear
 
-因此摄影更适合被视为一种**稳定但弱显性**的审美兴趣，而不是主要表达形式。
+Photography is therefore better understood as a **stable but weakly explicit** aesthetic interest, more like a background companion than a primary form of expression.
 
-## 这一经验层的重要性
+## Why This Layer Matters
 
-如果没有跨文化生活和媒介观看，很多后期文章会显得像是纯理论转向。
+Without cross-cultural life and media intake, many later texts would look like a purely theoretical turn. In practice, much of the change comes from:
 
-其实并不是。很多变化来自：
+- switching language environments
+- comparing academic and social institutions
+- real contact with different cities and groups
+- a sense of problems shaped jointly by film, literature, and technical culture
 
-- 语言环境切换
-- 学术与社会制度对比
-- 不同城市与人群的现实接触
-- 电影、文学和技术文化共同塑造的问题感
+## One-Sentence Summary
 
-## 一句话总结
-
-这里的跨文化生活与媒介世界，不是主业之外的点缀，而是后期哲学、写作和系统视角逐渐成形的生活底盘。
+Cross-cultural life and the media world provide the lived base from which later philosophical, writing, and systems perspectives gradually take shape, while also supplying the main line with a durable background.
