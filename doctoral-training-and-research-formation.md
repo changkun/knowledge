@@ -4,9 +4,7 @@
 
 This page tracks how formal research capability was organized: from early interaction prototypes, to behavior understanding and prediction, to doctoral human-in-the-loop work, together with several recurring case domains.
 
-Within the overall map, this is the point where the foundation layer first flows into a formal research trajectory.
-
-Compared with the pages on mathematics, systems, and learning theory, this page is more concerned with what kinds of questions, methods, and case structures formal research training produced.
+Within the overall map, this is the point where the foundation layer first flows into a formal research trajectory. Compared with the pages on [mathematics](math-and-learning.md), [systems](systems-and-engineering.md), and [languages](languages-platforms-and-products.md), this page is more concerned with what kinds of questions, methods, and case structures formal research training produced. What core problem space these lines ultimately converge on is handled by [Human Systems, AI, and Social Structures](human-systems.md); how research training is reorganized into courses and supervision is handled by [Teaching and Course Design](teaching-and-course-design.md).
 
 ## A Clear Line of Formation
 
@@ -54,12 +52,6 @@ Seen together, the three theses form a clear progression: interaction modality -
 - Their weight comes partly from large teaching investment and partly from the way they naturally connect mathematical structure, interaction interfaces, algorithmic implementation, and engineering collaboration.
 - Collaboration with WAY digital solutions on a mesh-processing backend also shows that this line was not confined to the classroom and did reach formal production systems.
 - Across theses, core papers, and recent directions, the most stable parent theme remains intelligence in the loop / human in the loop.
-
-## Boundary with Neighboring Pages
-
-- This page handles **how research was formed**: path, method, research clusters, and case structure.
-- [Human Systems, AI, and Social Structures](human-systems.md) handles **what core problem space these lines ultimately converge on**: how humans enter systems as judges, users, group members, and overseers.
-- [Teaching and Course Design](teaching-and-course-design.md) handles **how research training is reorganized into courses, supervision, and training structures**.
 
 ## References
 

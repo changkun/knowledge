@@ -84,6 +84,13 @@ Without cross-cultural life and media intake, many later texts would look like a
 - real contact with different cities and groups
 - a sense of problems shaped jointly by film, literature, and technical culture
 
+## References
+
+- [changkun.de/blog/posts/2015-10-24-转眼就快两个月了/](https://changkun.de/blog/posts/2015-10-24-转眼就快两个月了/)
+- [changkun.de/blog/posts/2017-05-11-德国的医疗观念/](https://changkun.de/blog/posts/2017-05-11-德国的医疗观念/)
+- [changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/](https://changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/)
+- [changkun.de/blog/posts/2020-02-01-2019-年终总结/](https://changkun.de/blog/posts/2020-02-01-2019-年终总结/)
+
 ## One-Sentence Summary
 
 Cross-cultural life and the media world provide the lived base from which later philosophical, writing, and systems perspectives gradually take shape, while also supplying the main line with a durable background.

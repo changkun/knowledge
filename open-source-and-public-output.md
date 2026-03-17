@@ -6,9 +6,7 @@ This page is about technical output directed toward others.
 
 Where other pages focus more on knowledge structure itself, this one focuses on how those structures are made public, circulated, and organized into reusable assets.
 
-Within the output layer, this page handles public work outside the classroom: repositories, communities, sites, talks, translations, templates, and knowledge infrastructure.
-
-It does not cover teaching relationships inside courses, nor writing method as such. The emphasis is on how these materials are organized into long-lived public assets.
+Within the output layer, this page handles public work outside the classroom: repositories, communities, sites, talks, translations, templates, and knowledge infrastructure. It sits between [Teaching and Course Design](teaching-and-course-design.md), which covers how knowledge is organized inside courses, and [Writing, Research, and the Cultural World](writing-and-culture.md), which covers the writing method and cultural orientation behind public expression.
 
 ## Forms of Output
 

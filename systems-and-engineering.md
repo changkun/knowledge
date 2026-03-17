@@ -4,7 +4,7 @@
 
 The focus here is "underlying mechanism + runnable system," rather than following framework churn.
 
-If the mathematics page answers how objects and theories are built, this page asks how those structures become runnable, deployable, and maintainable systems.
+If the [mathematics page](math-and-learning.md) answers how objects and theories are built, this page asks how those structures become runnable, deployable, and maintainable systems. Within the foundation layer, it sits between mathematics and [languages, platforms, and products](languages-platforms-and-products.md), which picks up where this page leaves off on language design and product boundaries.
 
 ## Core Capabilities
 
@@ -29,7 +29,7 @@ If the mathematics page answers how objects and theories are built, this page as
 - Mechanism first: performance problems are not left to guesswork; the habit is to experiment, read implementations, and inspect system behavior directly.
 - Dependency restraint: prefer implementing directly when reasonable; when dependencies are necessary, prefer structurally simple, controllable, long-lived options.
 - Simple architecture: favor systems with fewer layers, less magic, and clearly explainable responsibilities.
-- Go preference: Go is favored for its language design and engineering practicality, with maintainability, deployment cost, and system coherence as the main criteria.
+- Go preference: the choice of Go as the main language is a judgment call based on maintainability, deployment cost, and system coherence, not on language popularity.
 - Production awareness: the concern is not only whether code runs, but also deployment, monitoring, migration, rollback, long-term maintenance, and data safety.
 - Compressed expression: local mechanism questions are often written as short notes that keep only judgments, constraints, and key conclusions.
 

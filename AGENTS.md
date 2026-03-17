@@ -70,11 +70,16 @@ The target reading experience is:
    Purpose:
    - Preserve the life world, edge zones, and non-core materials that shaped the main line without forcing them into the core.
 
-In addition to the layered pages, there is one maintenance file:
+In addition to the layered pages, there are two maintenance files:
 
 - `terminology.md`
   Purpose:
   - Maintain recurring English/Chinese terminology, preferred prose forms, and exceptions for formal titles.
+
+- `PROFILE.md`
+  Purpose:
+  - Provide a self-contained agent system prompt that distills the methodology, knowledge domains, values, and problem-solving approach from the entire corpus.
+  - Distinct from `AGENTS.md`: `AGENTS.md` governs how the corpus is maintained; `PROFILE.md` governs how an agent should think.
 
 The corpus is bilingual:
 
@@ -115,6 +120,9 @@ Use these boundaries when editing:
 
 - `long-tail-and-writing.md`
   Focus on unstable, peripheral, exploratory, temporary, literary, and uncollapsed materials.
+
+- `PROFILE.md`
+  Focus on operational agent behavior: methodology, knowledge domains, problem-solving heuristics, values, diagnostic questions, anti-patterns, and AI/agent view. Does not duplicate topic-page content; distills and references it. Updated when the corpus methodology or domain structure changes significantly.
 
 ## Writing Rules
 

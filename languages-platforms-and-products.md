@@ -4,7 +4,7 @@
 
 Programming languages, platform ecosystems, and product experience form another long-running line of observation.
 
-If the systems page is more concerned with how software runs, this page is more concerned with how software is designed, packaged, delivered, and experienced.
+If the [systems page](systems-and-engineering.md) is more concerned with runtime, kernels, performance, and deployment, this page is more concerned with how software is designed, packaged, delivered, and experienced.
 
 Within the foundation layer, this page fills in what the systems page leaves less developed: language design, platform migration, and product boundaries.
 
@@ -45,6 +45,7 @@ What matters more here is:
 - In 2017-2018, a real-time voice bot for language learners was built across the web and Amazon Alexa, bringing real engineering experience with voice, platform constraints, and product feedback into this line.
 - In 2018-2019, remote desktop proxying, multi-cloud resource management, containers, and hybrid instance-management services show that product judgment also appears in how complex platform capability is abstracted.
 - After 2022, this line extends into enterprise products: AI chat interfaces, self-service agent builders, low-code platforms, document-processing pipelines, and knowledge systems.
+- Throughout this line, the blog itself has repeatedly been treated as a product: blog clients, desktop clients, mobile-client experiments, RESTful APIs, and sidebar downloads on the site. A systematic retrospective on Electron-based cross-platform clients shows that product-engineering issues were fully worked through. "Build a product for oneself" is a durable tendency here.
 - Product judgment here therefore spans device interaction, desktop software, voice interfaces, cloud platforms, and enterprise AI tooling rather than settling on a single terminal or framework.
 
 ## Product Judgment
@@ -54,23 +55,6 @@ Much of this judgment sits behind technical writing rather than in front of it.
 - There is a sustained interest in Apple products and industrial design.
 - Early yearly summaries already mention learning about industrial design and business through device reviews, Google I/O, WWDC, and similar material.
 - After formal HCI training, product judgment shifts from aesthetic preference toward a clearer understanding that people should be placed first. Wearables, voice systems, browsing behavior, and self-service agent builders all show this change.
-
-## Small Product Experiments
-
-The blog has repeatedly been treated as a product, with articles as only one content form among others.
-
-- blog clients
-- desktop clients
-- mobile-client experiments
-- small productized experiments such as RESTful APIs and downloadable sidebar entries on the site
-- a systematic retrospective on Electron-based cross-platform clients, showing that the product-engineering issues were fully worked through
-
-"Build a product for oneself" is a durable tendency here.
-
-## Boundary with the Systems Page
-
-- The systems page focuses more on runtime, kernels, performance, and deployment.
-- This page focuses more on language design, platform experience, product boundaries, and interaction feel.
 
 ## References
 

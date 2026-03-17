@@ -146,6 +146,14 @@
 - 其中持续总结了阅读结构、职业判断、教学经验和创作方法，已经超出单纯日记。
 - 如果要理解从数学少年到系统工程师，再到关注哲学与主体性的路径，这些文章比单篇技术文更关键。
 
+## 参考文章与页面
+
+- [changkun.de/blog/posts/2020-03-08-我为什么不再写博客了？/](https://changkun.de/blog/posts/2020-03-08-我为什么不再写博客了？/)
+- [changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/](https://changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/)
+- [changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/](https://changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/)
+- [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/)
+- [changkun.de/blog/posts/2022-12-30-2022-reading/](https://changkun.de/blog/posts/2022-12-30-2022-reading/)
+
 ## 一句话总结
 
-如果其他专题页回答的是“长期会什么、一直在想什么”，这里回答的则是“还写过什么、探索过什么，以及如何一路走到这些稳定知识领域上”。
+如果其他专题页回答的是"长期会什么、一直在想什么"，这里回答的则是"还写过什么、探索过什么，以及如何一路走到这些稳定知识领域上"。

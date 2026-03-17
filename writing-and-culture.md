@@ -6,7 +6,7 @@ Cultural orientation is also part of the deep background that determines how one
 
 Within the full map, this page belongs to the output layer, but it also keeps shaping the foundation and research layers. Much of the sense of structure, problem consciousness, and depth preference is stabilized through writing and reading.
 
-Inside the output layer, this page is closer to the writing method, research judgment, and cultural orientation behind public expression. The public role of courses or repositories themselves is handled by neighboring pages.
+Inside the output layer, this page is closer to the writing method, research judgment, and cultural orientation behind public expression. The public role of courses is handled by [Teaching and Course Design](teaching-and-course-design.md); repositories and community work by [Open Source, Talks, and Public Output](open-source-and-public-output.md).
 
 ## View of Writing
 
@@ -30,12 +30,11 @@ Inside the output layer, this page is closer to the writing method, research jud
 - Topic selection emphasizes contribution of new knowledge, theoretical support, resource conditions, time feasibility, personal motivation, and ethical boundaries.
 - There is high sensitivity to the relation between evidence and claim. Strong assertions without evidence are not accepted, and the same evidential discipline is visible in papers, advising lines, and supervision experience.
 
-## Teaching and Professional Growth
+## Professional Growth as an Intellectual Stance
 
 - Professional ability is understood to come mainly from long practice rather than exam scores.
-- Advice to students and younger peers remains stable over time: master at least one language, value data structures / operating systems / compilers / databases, write more code, and do more engineering.
-- In teaching, the stance is serious rather than accommodating. Useful knowledge density matters even when feedback becomes less friendly.
 - Over time, depth is valued more than breadth, and contribution becomes the main criterion by which professional ability is judged.
+- This stance shapes writing directly: the preference for structured depth over survey-level breadth runs through blogs, courses, and research writing alike.
 
 ## Reading and Cultural Orientation
 

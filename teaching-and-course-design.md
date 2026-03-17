@@ -6,7 +6,7 @@ Teaching is a major site where knowledge is output over the long term, value jud
 
 Within the overall structure, this page is the first part of the output layer. Knowledge no longer remains at the level of personal understanding, but is reorganized into courses, evaluation schemes, and training structures.
 
-The focus here is how teaching organizes knowledge and developmental paths. How those materials circulate publicly beyond the classroom is handled by the neighboring page.
+The focus here is how teaching organizes knowledge and developmental paths. How those materials circulate publicly beyond the classroom is handled by [Open Source, Talks, and Public Output](open-source-and-public-output.md).
 
 ## Teaching as Part of Long-Term Work
 
@@ -63,6 +63,9 @@ Public course repositories on GitHub reinforce this. The `teaching` repository w
 - **Course renewal**
   Outdated technical narratives are not carried forward by default; courses are expected to track changes in real technical structure.
 
+- **Pushback effects**
+  Teaching forces existing knowledge to become systematic, gradually turns breadth into depth that can actually be taught, and enlarges value conflicts: what a teacher wants to give and what students are willing to carry are not always aligned.
+
 ## Course-Design Style
 
 - Judge first whether a course has already fallen behind.
@@ -80,12 +83,6 @@ The repository structures also reveal two stable features:
 - Topic pages and the mathematical-modeling tutorial page show that courses and series are often organized into public indexes and continue circulating beyond the classroom.
 - Repositories such as `teaching`, `ss18-machine-learning-tutorial`, and `ws-18-19-deep-learning-tutorial` show that many course materials are maintained as reusable, updateable, and redistributable public assets.
 - How those materials further enter communities, sites, and knowledge infrastructure is expanded in [Open Source, Talks, and Public Output](open-source-and-public-output.md).
-
-## What Teaching Pushes Back On
-
-- It forces existing knowledge to become systematic.
-- It gradually turns breadth into depth that can actually be taught.
-- It also enlarges value conflicts: what a teacher wants to give and what students are willing to carry are not always aligned.
 
 ## References
 

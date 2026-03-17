@@ -146,6 +146,14 @@ This group sits between knowledge and life and is one of the key entry points fo
 - They keep summarizing reading structure, career judgment, teaching experience, and creative method, so they already go beyond diary writing.
 - If one wants to understand the path from mathematics-focused youth to systems engineer and then to philosophy and subjectivity, these pieces are often more revealing than single technical posts.
 
+## References
+
+- [changkun.de/blog/posts/2020-03-08-我为什么不再写博客了？/](https://changkun.de/blog/posts/2020-03-08-我为什么不再写博客了？/)
+- [changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/](https://changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/)
+- [changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/](https://changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/)
+- [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/)
+- [changkun.de/blog/posts/2022-12-30-2022-reading/](https://changkun.de/blog/posts/2022-12-30-2022-reading/)
+
 ## One-Sentence Summary
 
 If the other topic pages answer "what remains stable over the long term," this page answers "what else was written, what else was explored, and how the path reached those stable knowledge domains."

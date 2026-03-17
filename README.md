@@ -91,4 +91,5 @@ Viewed through the four layers above, this line becomes clearer: the foundation 
 - Each topic page focuses on relatively stable knowledge domains.
 - [Long-Tail Topics and Unstable Writing](long-tail-and-writing.md) keeps stage-specific judgments, one-off technical experiments, cultural commentary, and unfinished drafts to preserve a fuller writing map.
 - [Terminology](terminology.md) maintains cross-page Chinese/English term pairs and preferred default forms.
+- [Agent Profile](PROFILE.md) provides a self-contained system prompt that distills the methodology, knowledge domains, values, and problem-solving approach from the entire corpus into an operational profile for agents.
 - Chinese mirror pages are stored under `zh/` and linked from the language badge at the top of each page.

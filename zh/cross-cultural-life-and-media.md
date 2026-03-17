@@ -84,6 +84,13 @@
 - 不同城市与人群的现实接触
 - 电影、文学和技术文化共同塑造的问题感
 
+## 参考文章与页面
+
+- [changkun.de/blog/posts/2015-10-24-转眼就快两个月了/](https://changkun.de/blog/posts/2015-10-24-转眼就快两个月了/)
+- [changkun.de/blog/posts/2017-05-11-德国的医疗观念/](https://changkun.de/blog/posts/2017-05-11-德国的医疗观念/)
+- [changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/](https://changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/)
+- [changkun.de/blog/posts/2020-02-01-2019-年终总结/](https://changkun.de/blog/posts/2020-02-01-2019-年终总结/)
+
 ## 一句话总结
 
 这里的跨文化生活与媒介世界，构成了后期哲学、写作和系统视角逐渐成形的生活底盘，也给主线提供了持续背景。

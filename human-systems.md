@@ -4,12 +4,11 @@
 
 The "human" on this page is treated as a system that gives feedback, plays strategic games, distorts, and also forms institutions and group structure. This is not an abstract humanistic gesture.
 
-If the previous page explains how research training was formed, this page asks what core problem space those lines ultimately flowed into: how humans enter systems, and how systems reshape humans in return.
+If the [doctoral-training page](doctoral-training-and-research-formation.md) explains how research training was formed, this page asks what core problem space those lines ultimately flowed into: how humans enter systems, and how systems reshape humans in return. Within the research layer, it connects forward to [teaching](teaching-and-course-design.md) and the output layer.
 
-## From Interaction Prototypes to Human-in-the-Loop Questions
+## From Interaction to Human-in-the-Loop Questions
 
-- The line begins early with multimodal interaction, user-centered design, mobile and wearable computing, virtual reality, and spatial interaction.
-- From early interaction prototypes to browsing-behavior research and then intelligence in the loop, the question remains how humans enter system loops.
+- The central question is how humans enter system loops: as judges, feedback sources, constraint providers, and failure points.
 - Understanding interaction here means matching user intent, input channels, system assumptions, cognitive load, and feedback structure, not just interface aesthetics.
 
 ## Behavior, Memory, and Attention

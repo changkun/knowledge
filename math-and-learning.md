@@ -4,7 +4,7 @@
 
 Mathematics is treated here as a language for organizing objects, compressing definitions, and explaining learning problems. It also forms part of a durable method habit.
 
-Within the overall map, this page sits at the lowest layer. Many later system judgments, research questions, and writing habits can be traced back to the axiomatic tendency and definition-sensitivity established here.
+Within the overall map, this page sits at the lowest layer of the foundation. Many later judgments on [systems and engineering](systems-and-engineering.md), research questions formed during [doctoral training](doctoral-training-and-research-formation.md), and writing habits can be traced back to the axiomatic tendency and definition-sensitivity established here.
 
 ## Core Knowledge
 
@@ -15,19 +15,15 @@ Within the overall map, this page sits at the lowest layer. Many later system ju
 - Mathematical modeling in computer vision: sustained writing on Kalman filtering, MeanShift, Fourier transforms, image-signal correlation, and boundary-integral matching.
 - Mathematical modeling as something teachable: the work does not stop at theory, but repeatedly reorganizes probability, Markov chains, Monte Carlo, queueing theory, hidden Markov models, and fixed points into tutorials, videos, and modeling problems.
 
-## Typical Way of Thinking
+## Typical Way of Thinking and Main Emphasis
 
-- Explain why a definition is set up as it is before explaining what it can do.
+- The emphasis is on how a theoretical system is built, not on puzzle-solving technique. Explain why a definition is set up as it is before explaining what it can do.
 - Stay cautious about pure empiricism and keep asking about convergence conditions, effective complexity, stability, compressibility, and boundaries.
+- Engineering usefulness is not enough on its own; the question remains why something works under certain conditions, or why it should not be overinterpreted.
 - Translate machine learning questions back into mathematical ones such as function spaces, uniform convergence, complexity measures, and error propagation.
+- Deep learning is approached mainly through theory, especially generalization, compression, stable rank, and sample complexity.
 - Keep compressing abstract theory into objects that can be taught, simulated, and programmed, rather than leaving it as paper proof alone.
 - The mathematical interest also reaches into more basic topics such as set theory, manifolds, measure, and Riemannian thinking.
-
-## Main Emphasis
-
-- The emphasis is on how a theoretical system is built, not on puzzle-solving technique.
-- Engineering usefulness is not enough on its own; the question remains why something works under certain conditions, or why it should not be overinterpreted.
-- Deep learning is approached mainly through theory, especially generalization, compression, stable rank, and sample complexity.
 - Unpublished drafts still show a partly uncollapsed mathematical line: inequality proofs, Fermat numbers, three-dimensional complex numbers, single-valued function theory, manifolds, and overviews of statistical learning theory.
 
 ## References
