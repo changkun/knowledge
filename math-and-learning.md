@@ -1,6 +1,6 @@
 # 知识：数学与学习理论
 
-这部分知识主干说明：数学对这里而言不是工具箱，而是组织世界、压缩定义、解释学习问题的语言。
+数学在这里不是工具箱，而是组织世界、压缩定义并解释学习问题的语言。
 
 ## 核心知识
 
@@ -24,24 +24,24 @@
 - 不是只喜欢解题，而是喜欢研究一个理论系统如何被搭起来。
 - 不是只接受“这在工程上 work”，而是想知道它为什么在某些条件下必然 work，或者为什么根本不该被过度解释。
 - 对深度学习的关注更偏理论解释，尤其是泛化性、压缩、稳定秩、样本复杂度这些母题。
-- `_todo` 草稿也暴露出一条没完全写成系列的数学长线：不等式证明、Fermat 数、三维复数、单值函数论到流形思想、统计学习理论综述等。
+- 未发布草稿里还能看到一条没有完全展开的数学长线：不等式证明、Fermat 数、三维复数、单值函数论到流形思想、统计学习理论综述等。
 
-## 代表文章
+## 参考文章与页面
 
-- 2012《谈谈良序原理》
-- 2013《ZFC 集合论中各公理的意义及作用》
-- 2013《又读流形》
+- [changkun.de/blog/posts/2012-06-28-谈谈良序原理/](https://changkun.de/blog/posts/2012-06-28-谈谈良序原理/)
+- [changkun.de/blog/posts/2013-01-31-ZFC-集合论中各公理的意义及作用/](https://changkun.de/blog/posts/2013-01-31-ZFC-集合论中各公理的意义及作用/)
+- [changkun.de/blog/posts/2013-03-25-又读流形/](https://changkun.de/blog/posts/2013-03-25-又读流形/)
 - [changkun.de/blog/math-modeling/](https://changkun.de/blog/math-modeling/)
-- 2013《Kalman 滤波器数学原理与应用》
-- 2013《MeanShift 均值漂移跟踪算法原理》
-- 2013《Fourier 变换应用小记》
-- 2013《基于图像信号分析的碎纸片的拼接复原》
-- 2015《什么是泛函空间的大数定律？它是机器学习理论的里程碑吗？》
-- 2017《深度学习的泛化理论简介》
+- [changkun.de/blog/posts/2013-08-29-Kalman滤波器数学原理与应用/](https://changkun.de/blog/posts/2013-08-29-Kalman滤波器数学原理与应用/)
+- [changkun.de/blog/posts/2013-09-04-均值漂移跟踪算法原理/](https://changkun.de/blog/posts/2013-09-04-均值漂移跟踪算法原理/)
+- [changkun.de/blog/posts/2013-10-07-Fourier变换应用小记/](https://changkun.de/blog/posts/2013-10-07-Fourier变换应用小记/)
+- [changkun.de/blog/posts/2013-09-21-基于图像信号分析的碎纸片的拼接复原/](https://changkun.de/blog/posts/2013-09-21-基于图像信号分析的碎纸片的拼接复原/)
+- [changkun.de/blog/posts/2015-02-17-什么是泛函空间的大数定律？它是机器学习理论的里程碑吗？/](https://changkun.de/blog/posts/2015-02-17-什么是泛函空间的大数定律？它是机器学习理论的里程碑吗？/)
+- [changkun.de/blog/posts/2017-12-17-深度学习的泛化理论简介/](https://changkun.de/blog/posts/2017-12-17-深度学习的泛化理论简介/)
 - [changkun.de/blog/specialization/](https://changkun.de/blog/specialization/) 中的 UMSLT 系列与建模/机器学习教程索引
 - 2018《UMSLT01-04》
-- 2018《压缩法与深度网络的泛化性》
-- `_todo` 中的《统计学习理论综述》《浅谈不等式证明二三事》《Hamilton 找不到「三维复数」的原因》
+- [changkun.de/blog/posts/2018-03-26-压缩法与深度网络的泛化性/](https://changkun.de/blog/posts/2018-03-26-压缩法与深度网络的泛化性/)
+- 未发布草稿《统计学习理论综述》《浅谈不等式证明二三事》《Hamilton 找不到「三维复数」的原因》
 
 ## 一句话总结
 

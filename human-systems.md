@@ -1,6 +1,6 @@
 # 知识：人机、AI 与社会系统
 
-这部分知识主干说明：对“人”的兴趣不是抽象的人文感慨，而是把人看成会反馈、会博弈、会失真、会形成制度与群体结构的系统。
+这里对“人”的兴趣不是抽象的人文感慨，而是把人看成会反馈、会博弈、会失真、会形成制度与群体结构的系统。
 
 ## 人机交互
 
@@ -24,10 +24,10 @@
 
 ## Agentic AI 与责任链
 
-- `ideas/` 中的近年笔记把这条线推得很具体：关注 confirmation fatigue、approval scaling、plan-level approval、risk-proportional oversight、sandbox-first review 等问题。
+- 近年的公开笔记把这一问题群推进得很具体：关注 confirmation fatigue、approval scaling、plan-level approval、risk-proportional oversight、sandbox-first review 等问题。
 - human-in-the-loop 在这里不只是交互细节，而是协议缺口、责任归属、审计可重建性和组织治理问题。
 - 对 agent workflow 的核心判断是：真正稀缺的人类价值并不是逐步点确认，而是高杠杆边界上的校准、介入、否决和解释。
-- `_todo/talk-intelligence-in-the-agentic-loop.md` 进一步说明，这套问题已经被当成“AI-first 软件工程工作流”的中心设计议题来处理。
+- 未发布讲稿《Intelligence in the Agentic Loop》进一步表明，这套问题已经被当成“AI-first 软件工程工作流”的中心设计议题来处理。
 
 ## 偏好、伦理与自指
 
@@ -42,18 +42,18 @@
 - 看待系统时，经常把技术系统、组织系统、社会系统放到同一个复杂系统框架内比较。
 - 近年又把“责任链是否可见、控制权和问责是否对齐、监督为何会退化成仪式”纳入了组织问题的核心。
 
-## 代表文章
+## 参考文章与页面
 
-- 2014《Paper读后感：人机交互的进展及面临的挑战》
-- 2014《拙谈人工智能的未来》
-- 2017《人肉计算》系列
-- 2017《瞎扯：对现代企业理论与当下 IT 企业的商业模式和信息产业链的规律性的思考》
+- [changkun.de/blog/posts/2014-02-18-Paper读后感：人机交互的进展及面临的挑战/](https://changkun.de/blog/posts/2014-02-18-Paper读后感：人机交互的进展及面临的挑战/)
+- [changkun.de/blog/posts/2014-06-24-拙谈人工智能的未来/](https://changkun.de/blog/posts/2014-06-24-拙谈人工智能的未来/)
+- [changkun.de/blog/posts/2017-05-14-人肉计算-一-众包与群众智慧/](https://changkun.de/blog/posts/2017-05-14-人肉计算-一-众包与群众智慧/) 起始的人肉计算系列
+- [changkun.de/blog/posts/2017-06-06-瞎扯-对现代企业理论与当下IT企业的商业模式和信息产业链的规律性的思考/](https://changkun.de/blog/posts/2017-06-06-瞎扯-对现代企业理论与当下IT企业的商业模式和信息产业链的规律性的思考/)
 - 2018《Issues of Human-Bot Interaction》
-- 2022《2022 读书清单》
-- 2026 `ideas/`：`代理式AI监督中的确认疲劳与协议缺口`、`人机闭环中的权衡与责任链设计`
-- 2026 `ideas/`：`偏好的多学科定义与驱动机制`、`自指悖论与生命程序中的自指机制`
-- `_todo`《Intelligence in the Agentic Loop: Designing an AI-First Software Engineering Workflow》
-- 2026《自指的边界：人工智能的稳定结构与自我作为开放耗散系统的递归模型》
+- [changkun.de/blog/posts/2022-12-30-2022-reading/](https://changkun.de/blog/posts/2022-12-30-2022-reading/)
+- 2026 年公开笔记：`代理式AI监督中的确认疲劳与协议缺口`、`人机闭环中的权衡与责任链设计`
+- 2026 年公开笔记：`偏好的多学科定义与驱动机制`、`自指悖论与生命程序中的自指机制`
+- 未发布讲稿《Intelligence in the Agentic Loop: Designing an AI-First Software Engineering Workflow》
+- [changkun.de/blog/posts/2026-03-10-self-reference-boundary/](https://changkun.de/blog/posts/2026-03-10-self-reference-boundary/)
 
 ## 一句话总结
 
