@@ -2,25 +2,40 @@
 
 这里对“人”的兴趣不是抽象的人文感慨，而是把人看成会反馈、会博弈、会失真、会形成制度与群体结构的系统。
 
-如果上一页更像在交代博士阶段的研究训练和图形学这个案例域，这一页则更接近整套知识库最终汇合的中心问题：人怎样进入系统，系统又怎样反过来重塑人。
+如果上一页更像在交代研究训练如何形成，这一页则更接近整套知识库最终汇合的中心问题：人怎样进入系统，系统又怎样反过来重塑人。
 
-## 人机交互
+## 从交互原型到人在环问题
 
 - 很早就关注多通道交互、用户中心设计、移动与可穿戴计算、虚拟现实与空间交互。
-- 对交互问题的理解并不止于界面美观，而是用户意图、输入通道、系统假设与认知负担之间的匹配。
-- 对语音交互尤其敏感，注意到停顿、重说、重复确认、边想边说等真实语言现象并不服从理想输入模型。
+- 本科论文的智能手表非接触式交互模式，硕士论文的 web browsing behavior，以及博士阶段的 intelligence in the loop，可以看成同一个问题不断升级的三个版本。
+- 对交互问题的理解并不止于界面美观，而是用户意图、输入通道、系统假设、认知负担与反馈结构之间的匹配。
+- 因此这里的人机研究不是“先做界面，再补理论”，而是一开始就在处理“人怎样进入系统闭环”。
 
-## 从交互原型到闭环系统
+## 行为理解、记忆与注意力
 
-- 本科论文做的是智能手表的非接触式备择交互模式设计，说明“人机交互”不是后来的理论抽象，而是很早就通过可穿戴输入原型来处理。
-- 硕士论文研究 web browsing behavior，进一步把人类行为理解、预测与系统设计连了起来。
-- 博士与研究助理阶段的方向是 human-in-the-loop machine learning for 3D graphics systems，这把 HCI、AI 与图形系统这个案例域放进了同一条学术线。
-- 后续又做过面向语言学习者的实时语音 bot，以及企业里的 AI chat、self-service agent builder 与 knowledge system。
-- 因此这条线不是“先写 blog，再谈人机”，而是从本科、硕士、博士到产业系统都持续在处理“人如何进入系统闭环”。
+- web browsing behavior 研究说明，长期关心的不是静态偏好，而是人在真实任务中如何切换窗口、分配注意、形成浏览轨迹与行为模式。
+- 这条线后来又延伸到 context switching 和 prospective memory，例如短视频对 intention retention 的影响，继续追问数字系统如何打断、重排或削弱人的任务保持能力。
+- 注意力问题也不只停留在行为层。后来的 EEG 与 eye tracking 工作，把 internal/external attention state 直接带进了自适应系统的设计里。
+
+## 人在环优化、判断与失败模式
+
+- 博士阶段最核心的研究母题，是 **intelligence in the loop / human in the loop**。
+- 这里的人不是简单标注者，而是带有专业性、有限理性、表达噪声和上下文依赖的判断主体。
+- *The Impact of Expertise in the Loop for Exploring Machine Rationality* 处理的是专业知识如何改变优化回路；*The Human in the Infinite Loop* 则进一步揭示了 human-AI loop failure 如何被制造、隐藏和解释。
+- 后续关于 opinion measurement interface 的研究，又把问题推进到一个更细的位置：系统并不是被动“读取”意见，而是在界面结构中塑造、放大或扭曲人的表达。
+- 因而这里真正稳定的兴趣点，不是某个模型，而是优化回路中的 trade-off、解释、失败、责任与判断结构。
+
+## 自适应 VR/AR 与具身信号
+
+- 研究中另一条非常清晰的主线，是把人的生理和感知状态直接带入系统闭环。
+- 相关工作覆盖 adaptive VR/AR、visual complexity adaptation、mixed reality visual search、mixed reality typing、movement training、VR exergaming 等。
+- EEG、EDA、ECG、fixation-related potentials 和 eye tracking 在这里不是炫技式传感器堆叠，而是为了回答一个更深的问题：当用户状态部分不可言说、持续漂移且具身化时，系统怎样才算真正理解了“人”。
+- 这也解释了为什么后期会越来越关心 attention、engagement、arousal、fatigue 这些比传统点击反馈更复杂的人类信号。
 
 ## 人肉计算与群体系统
 
 - 系统研究过众包、群众智慧、人肉计算、预测市场、信用风险评级、社会行为分析、参与激励等主题。
+- 这条线并不是停留在博客讨论，也进入过正式研究：例如 GWAP 灾害监测中的恶意玩家识别，以及把 crowd 与 machine learning 结合起来的 oil spill detection 智能界面。
 - 反复强调：群体并不天然聪明，只有在多样性、独立性、去中心化和聚合机制都成立时，集体智慧才可能成立。
 - 对冷启动、噪声、幂律参与、长尾、作弊、信誉、游戏化副作用、激励兼容和伦理问题有持续关注。
 - 很清楚反身性与从众行为会让市场、搜索、民主、百科系统都出现恶性循环。
@@ -35,6 +50,7 @@
 ## Agentic AI 与责任链
 
 - 近年的公开笔记把这一问题群推进得很具体：关注 confirmation fatigue、approval scaling、plan-level approval、risk-proportional oversight、sandbox-first review 等问题。
+- 未发布研究综合稿 *HIAL: Human-in-the-Agent-Loop for Agentic Systems with Side Effects* 说明，这条线已经被明确组织成新的研究问题：当 agent 具备真实副作用时，人类监督如何在规模、疲劳和对抗条件下保持有效。
 - human-in-the-loop 在这里不只是交互细节，而是协议缺口、责任归属、审计可重建性和组织治理问题。
 - 对 agent workflow 的核心判断是：真正稀缺的人类价值并不是逐步点确认，而是高杠杆边界上的校准、介入、否决和解释。
 - 未发布讲稿《Intelligence in the Agentic Loop》进一步表明，这套问题已经被当成“AI-first 软件工程工作流”的中心设计议题来处理；而 enterprise AI platform、workflow orchestration、knowledge management 与 governance 这些工作内容又说明，这套判断已经进入真实组织系统。
@@ -42,6 +58,7 @@
 ## 偏好、伦理与自指
 
 - 最近的笔记把“人”的问题推进到了偏好与主体性的层面：偏好不是单一效用函数，而是横跨计算机科学、行为经济学、生物学、伦理学和组织决策的异质对象。
+- 研究综合稿 *Preferential Bayesian Optimization: 前沿综述与跨学科思考* 又把这条线进一步系统化：偏好优化不只是技术问题，也牵涉 constructed preference、动态偏好、自然语言偏好获取和偏好生态学。
 - 对道德判断、行动、知识与信念悖论、自指结构、透明心智和 identity construction 都有明确兴趣。
 - 看待 LLM 也不再只问“能不能做”，而是问：它是否真的形成自指闭环、是否只是模拟元认知、人的主体位置会不会被重新分配。
 
@@ -54,6 +71,10 @@
 
 ## 参考文章与页面
 
+- [changkun.de/research/](https://changkun.de/research/)
+- [The Impact of Expertise in the Loop for Exploring Machine Rationality](https://changkun.de/paper/expertise.pdf)
+- [The Human in the Infinite Loop](https://changkun.de/paper/infloop.pdf)
+- [Optimizing Visual Complexity for Physiologically-Adaptive VR Systems](https://changkun.de/paper/chiossi2024optimizing.pdf)
 - [changkun.de/blog/posts/2014-02-18-Paper读后感：人机交互的进展及面临的挑战/](https://changkun.de/blog/posts/2014-02-18-Paper读后感：人机交互的进展及面临的挑战/)
 - [changkun.de/blog/posts/2014-06-24-拙谈人工智能的未来/](https://changkun.de/blog/posts/2014-06-24-拙谈人工智能的未来/)
 - [changkun.de/blog/posts/2017-05-14-人肉计算-一-众包与群众智慧/](https://changkun.de/blog/posts/2017-05-14-人肉计算-一-众包与群众智慧/) 起始的人肉计算系列

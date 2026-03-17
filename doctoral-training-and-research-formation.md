@@ -1,61 +1,72 @@
-# 知识：博士阶段、研究训练与图形学案例
+# 知识：博士阶段与研究形成
 
-这页处理的不是“图形学就是研究主轴”，而是博士阶段的正式研究训练，以及图形学/几何处理如何作为一个重要案例域、教学域和工程落点持续出现。
+这页处理的不是某个单一应用题材，而是正式研究能力如何被组织起来：从早期交互原型，到行为理解与预测，再到博士阶段的人在环研究，以及若干反复出现的案例域。
 
-它在整张地图里的位置，是基础层第一次真正汇成正式研究训练的地方。
+它在整张地图里的位置，是基础层第一次真正汇成研究 program 的地方。
 
-与数学、系统、学习理论相比，这一页更关心的是：博士阶段究竟把哪些能力正式组织起来，以及图形系统为什么会反复出现，但又不能被误写成唯一中心。
+与数学、系统、学习理论相比，这一页更关心的是：正式研究训练究竟形成了什么问题意识、方法组合和案例结构。
 
-## 主线轮廓
+## 一条清晰的形成线
 
-- 2016-2019 在 LMU 完成人机交互硕士学习，硕士论文是 *Understanding and Predicting Web Browsing Behavior*。
-- 2018 起在 LMU 作为研究助理与讲师工作。
-- 2019-2023 完成媒体信息学博士，博士论文是 *The Intelligence in the Loop: Empirical Explorations and Reflections*，并获得 `Magna cum Laude`。
-- 长期研究方向更准确地说，是 **human-in-the-loop / intelligence-in-the-loop** 这一组问题，而不是单独的图形学方向。
-- 图形学、几何处理和 3D mesh processing 在这条线上更像一个重要应用域：它既承载了课程，也承载了部分研究与工程合作。
-- 与 WAY digital solutions 的合作把这条线落到工程系统上，实际做过 3D mesh processing backend。
-- `about` 页与年终总结里反复出现的 **Computer Graphics / Geometry Processing / 3D 模型压缩**，因此更适合理解为长期投入很深的主题域，而不是唯一的研究中心。
+- 2016 年的本科论文 *Designing Alternative Contact-free Control Modalities for Smart Watches*，已经在处理输入通道、交互模式与可穿戴设备上的人机问题。
+- 2019 年的硕士论文 *Understanding and Predicting Web Browsing Behavior*，把兴趣推进到行为理解、预测与用户状态建模。
+- 2018 年起在 LMU 作为研究助理与讲师工作，研究、教学、工业合作和课程组织在同一阶段并行展开。
+- 2023-04-03 完成 LMU 博士答辩，博士论文 *The Intelligence in the Loop: Empirical Explorations and Reflections* 之后以 2024 年版本公开。这时研究主线已经明确变成 **intelligence in the loop / human in the loop**，而不再是某个单一技术方向。
 
-## 为什么图形学会显得很重
+如果把这三篇学位论文连起来看，研究形成并不是突然跳到 AI，而是沿着一条很清楚的线推进：交互方式 -> 行为建模 -> 人在环判断、优化与系统失效。
 
-它不像 Go 运行时那样直接表现为一组源码分析文章，但又确实在公开材料里占了很大比重，主要因为它同时落在三种位置上：
+## 研究不是单线，而是几个彼此相连的研究簇
 
-1. **研究兴趣的公开表述**
-   在 [changkun.de/blog/about/](https://changkun.de/blog/about/) 中，研究兴趣明确写为 `computer graphics, specifically geometry processing`，中文版本又进一步写到 `3D 模型的压缩`。这说明它确实是一个长期明确的主题域。
+### 行为理解与用户状态
 
-2. **课程与教学材料**
-   在 [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/) 中，大量篇幅用于描述 Computer Graphics 与 Geometry Processing 的课程重构。这里的分量很大，首先因为它是实打实花了很多精力的教学任务。
+- 硕士阶段的 web browsing behavior 研究，处理的是用户如何在 tab、网站和任务之间切换，说明“理解用户”在这里从来不是泛泛的人文兴趣，而是可建模、可预测、可进入系统设计的对象。
+- 这条线后来又延伸到 prospective memory、context switching、attention state 等问题，继续追问系统如何影响人的意图保持、任务状态和认知负担。
 
-3. **研究与工程的案例域**
-   图形系统又不是纯教学外壳，因为博士阶段的人机闭环问题、以及与企业伙伴合作的 mesh backend，都确实通过这个域得到展开。也正因为如此，它更像一个高投入的案例域，而不是可以脱离方法论单独成立的研究中心。
+### 人在环优化与机器理性
 
-## 这一页真正想保留的东西
+- 博士阶段最核心的工作，不是“做一个会跑的模型”，而是研究人如何进入优化回路、接口如何塑造判断、系统如何暴露或掩盖 loop failure。
+- *The Impact of Expertise in the Loop for Exploring Machine Rationality*、*The Human in the Infinite Loop*、以及 opinion measurement interface 的工作，连成了一条很明确的线：人不是标签提供者，而是判断者、解释者、约束源和失效环节。
+- 这里的研究兴趣，也解释了为什么后期会自然推进到偏好、trade-off、explanation 和 responsibility chain 这些问题。
 
-- **正式研究训练**：硕士到博士的路径，把行为理解、HCI、博士论文、研究方法与学术规范真正组织成了一条线。
-- **人机闭环的问题核心**：博士最核心的母题不是“图形学本身”，而是 intelligence in the loop / human in the loop。
-- **图形学作为高密度案例域**：图形学、几何处理、3D 模型压缩是重要载体，因为它同时连接数学、系统实现、课程设计与工程合作。
-- **教学与研究的缠绕**：这条线之所以显得很“重”，部分正是因为教学任务本身就占了巨量精力，不能简单把它全读成研究专注。
+### 生理信号、自适应系统与沉浸式交互
 
-## 主题气质
+- 另一条很重的研究线，是用 EEG、EDA、ECG、eye tracking 等信号研究 adaptive VR/AR 系统。
+- 相关工作覆盖 visual complexity adaptation、internal/external attention balance、mixed reality visual search、typing performance、movement training、VR exergaming 等。
+- 这些课题表面上分散，实际上都在问同一件事：如果用户状态本身是动态的、具身的、部分不可言说的，系统应该如何感知、建模并适应这种变化。
 
-- **偏结构与表示**：图形系统在这里不是纯渲染兴趣，而更像几何对象的结构处理、表示压缩与算法组织。
-- **偏数学基础**：它和前面的数学兴趣天然连通，更像几何、线性代数、优化、离散结构与实现能力的交叉点。
-- **偏工程可落实**：课程里强调“从公式到代码”的落地难度，例如 rasterisation pipeline、global illumination、ray tracing；mesh backend 这类系统又把它拉回工程现实。
-- **偏案例而非终点**：图形学在这里重要，但更重要的是它承载了研究训练、教学组织和系统化实现，而不是它单独构成了全部研究身份。
+### crowd + machine learning 与社会性系统
 
-## 与其他主题的连接
+- 群体与系统的关系也不是后来才出现。早期有 GWAP 灾害监测系统中的恶意玩家检测，之后又有 oil spill detection 这类 crowd 与 machine learning 结合的智能界面工作。
+- 这说明研究 program 里一直有一条社会性维度：人不是单个用户，也可能作为群体、标注源、噪声源、作弊者、协作者或集体判断的一部分进入系统。
 
-- 与**数学**相连：几何、变换、表示、压缩、结构化建模。
-- 与**系统工程**相连：图形系统实现需要很强的底层与性能意识。
-- 与**教学**相连：图形学是后期最完整输出成课程体系的方向之一，这也是它分量显得很大的直接原因。
-- 与**人机、AI 与社会系统**相连：真正更核心的研究母题仍然是 human-in-the-loop / intelligence-in-the-loop，而图形系统只是其中一个高密度案例。
+## 方法气质
 
-## 参考文章与页面
+- **经验研究与系统实现并重**：既做实验、界面、信号采集和用户研究，也关心算法、数据处理和系统原型是否真的可运行。
+- **从 interaction 到 loop**：问题往往不是停在“界面好不好用”，而是继续追问交互如何改变判断、判断如何进入优化、优化又如何反过来塑造人。
+- **跨层证据意识**：行为数据、生理信号、实验操控、失败案例、解释界面和运行系统在这里经常被放到同一证据链里。
+- **案例域服务于方法，而不是反过来**：不同应用场景的价值，在于它们让这些问题可以被观察、操控和验证。
 
-- [changkun.de/blog/about/](https://changkun.de/blog/about/)
-- [changkun.de/blog/posts/2020-02-01-2019-年终总结/](https://changkun.de/blog/posts/2020-02-01-2019-年终总结/)
-- [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/)
+## 图形、几何与 3D 系统在这里的真实位置
+
+- 图形、几何处理和 3D 系统确实长期重要，但更准确的角色是高密度案例域，而不是研究身份的唯一中心。
+- 它之所以显得分量很重，首先因为相关教学投入极大；其次因为它天然连接数学结构、交互界面、算法实现和工程合作。
+- 与 WAY digital solutions 的 mesh processing backend 合作，也说明这条线并非纯课堂产物，而确实落到过正式工程系统。
+- 但如果从学位论文、核心论文和近年的问题推进方向看，真正稳定的母题仍然是 human-in-the-loop / intelligence-in-the-loop。
+
+## 这页与相邻页面的边界
+
+- 这一页处理**研究如何形成**：路径、方法、研究簇和案例结构。
+- [human-systems.md](human-systems.md) 处理**这些研究最终汇成什么核心问题**：人如何作为判断者、使用者、群体成员和监督者进入系统。
+- [teaching-and-course-design.md](teaching-and-course-design.md) 处理**研究训练如何再被组织成课程、指导与培养结构**。
+
+## 参考页面
+
+- [changkun.de/research/](https://changkun.de/research/)
+- [The Intelligence in the Loop: Empirical Explorations and Reflections](https://changkun.de/thesis/phd.pdf)
+- [Understanding and Predicting Web Browsing Behavior](https://changkun.de/thesis/master.pdf)
+- [The Impact of Expertise in the Loop for Exploring Machine Rationality](https://changkun.de/paper/expertise.pdf)
+- [The Human in the Infinite Loop](https://changkun.de/paper/infloop.pdf)
 
 ## 一句话总结
 
-如果说机器学习理论代表了这里“最系统的理论兴趣”，那么这一页保留的就是后期最正式的研究训练路径，以及图形学为何会作为一个重要案例域反复出现。
+这一页保留的不是“做过哪些论文”，而是正式研究训练如何把交互、行为、优化、自适应系统和案例域组织成一个持续演化的研究 program。

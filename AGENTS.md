@@ -16,6 +16,15 @@ The target reading experience is:
 - one narrative voice
 - stable boundaries between major domains
 
+## Reference Sources
+
+- `knowledge/` is the source of truth for the corpus itself.
+- When integrating research material, use the public research record as the main anchor:
+  - research overview and publication list
+  - theses
+  - public talks / defenses
+- Unpublished research plans or synthesis drafts can be used to identify where recent questions are moving, but they should be written as frontier directions or active lines of thought, not as settled results.
+
 ## Structural Logic
 
 `README.md` defines the top-level map. It currently uses four layers:
@@ -35,7 +44,7 @@ The target reading experience is:
    - `human-systems.md`
 
    Purpose:
-   - Show where the foundational tendencies become formal research training and core problem domains.
+   - Show where the foundational tendencies become formal research training, empirical research programs, and the core human-in-the-loop problem space.
 
 3. Output layer
    Files:
@@ -68,10 +77,10 @@ Use these boundaries when editing:
   Focus on language design, platforms, product feel, interaction packaging, delivery.
 
 - `doctoral-training-and-research-formation.md`
-  Focus on doctoral formation, formal research training, and graphics/geometry processing as a major case domain and teaching domain.
+  Focus on doctoral formation, formal research training, research method, and the major empirical research clusters; graphics/geometry may appear as an important case domain, but not as the sole center.
 
 - `human-systems.md`
-  Focus on HCI, HITL, crowds, AI governance, preference, responsibility chains, social systems.
+  Focus on HCI, HITL, behavior modeling, adaptive systems, crowds, AI governance, preference, responsibility chains, and social systems.
 
 - `teaching-and-course-design.md`
   Focus on pedagogy, course structuring, supervision, academic training, evaluation philosophy.
@@ -102,6 +111,9 @@ Maintain these rules unless there is a deliberate reorganization:
 - Keep public references public:
   - use public links when citing published material
   - for unpublished drafts, keep only titles, not local file paths
+- Treat research plans carefully:
+  - use them to sharpen current direction
+  - do not present them as already-finished publication records
 - Avoid turning pages into CV bullet lists.
 - Avoid turning pages into taxonomies with no temporal movement.
 - Preserve temporal development when useful: early formation -> formalization -> institutionalization -> production reality.
