@@ -2,11 +2,21 @@
 
 这里对“人”的兴趣不是抽象的人文感慨，而是把人看成会反馈、会博弈、会失真、会形成制度与群体结构的系统。
 
+如果上一页更像在交代博士阶段的研究训练和图形学这个案例域，这一页则更接近整套知识库最终汇合的中心问题：人怎样进入系统，系统又怎样反过来重塑人。
+
 ## 人机交互
 
 - 很早就关注多通道交互、用户中心设计、移动与可穿戴计算、虚拟现实与空间交互。
 - 对交互问题的理解并不止于界面美观，而是用户意图、输入通道、系统假设与认知负担之间的匹配。
 - 对语音交互尤其敏感，注意到停顿、重说、重复确认、边想边说等真实语言现象并不服从理想输入模型。
+
+## 从交互原型到闭环系统
+
+- 本科论文做的是智能手表的非接触式备择交互模式设计，说明“人机交互”不是后来的理论抽象，而是很早就通过可穿戴输入原型来处理。
+- 硕士论文研究 web browsing behavior，进一步把人类行为理解、预测与系统设计连了起来。
+- 博士与研究助理阶段的方向是 human-in-the-loop machine learning for 3D graphics systems，这把 HCI、AI 与图形系统这个案例域放进了同一条学术线。
+- 后续又做过面向语言学习者的实时语音 bot，以及企业里的 AI chat、self-service agent builder 与 knowledge system。
+- 因此这条线不是“先写 blog，再谈人机”，而是从本科、硕士、博士到产业系统都持续在处理“人如何进入系统闭环”。
 
 ## 人肉计算与群体系统
 
@@ -27,7 +37,7 @@
 - 近年的公开笔记把这一问题群推进得很具体：关注 confirmation fatigue、approval scaling、plan-level approval、risk-proportional oversight、sandbox-first review 等问题。
 - human-in-the-loop 在这里不只是交互细节，而是协议缺口、责任归属、审计可重建性和组织治理问题。
 - 对 agent workflow 的核心判断是：真正稀缺的人类价值并不是逐步点确认，而是高杠杆边界上的校准、介入、否决和解释。
-- 未发布讲稿《Intelligence in the Agentic Loop》进一步表明，这套问题已经被当成“AI-first 软件工程工作流”的中心设计议题来处理。
+- 未发布讲稿《Intelligence in the Agentic Loop》进一步表明，这套问题已经被当成“AI-first 软件工程工作流”的中心设计议题来处理；而 enterprise AI platform、workflow orchestration、knowledge management 与 governance 这些工作内容又说明，这套判断已经进入真实组织系统。
 
 ## 偏好、伦理与自指
 
