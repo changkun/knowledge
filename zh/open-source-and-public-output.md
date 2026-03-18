@@ -51,8 +51,9 @@ GitHub 上有一批仓库直接以知识组织为主体：
 - 参与 Go 夜读、Go 社区活动、欧洲 Go Contributor Summit。
 - 持续产出 Go 性能、运行时、基准测试、内存管理相关内容。
 - 2020 年建立 `golang.design`，把分散资源重新组织成一个长期站点与项目集合。
+- 除了代码和文档之外，golang.design 还产出了正式研究出版物：六篇关于 Go 并发、channel 设计、指针管理、基准测试、调度和 options 模式的论文以研究论文形式撰写，跨越了从工程文档到正式研究方法论的边界。
 
-关键不在于“写了几篇 Go 文章”，而在于形成了一个完整的公共输出面：
+关键不在于"写了几篇 Go 文章"，而在于形成了一个完整的公共输出面：
 
 - 文章
 - 仓库
@@ -87,14 +88,13 @@ GitHub 上有一批仓库直接以知识组织为主体：
 
 ## 演讲与播客
 
-从 2019、2020 总结看，公开演讲和播客开始成为新的输出渠道。
+演讲输出跨越十余年，其轨迹与语料库其他部分可见的知识发展路径一致。早期学术讲座涉及深度学习与泛化理论；在 TalkGo 和 GopherChina 的 Go 社区演讲处理 channel、CSP、并发 bug、计时器内部机制、基准测试与泛型；IUI 2023 和 MuC 2022 的正式研究会议报告将人在环工作带入 HCI 社区；企业工程演讲涵盖生产环境中的 PGO 优化和 AI-first 工作流设计；关于自由意志、决策困境和理性讨论的哲学类演讲则贯穿始终。这一轨迹并非随意扩展——它追踪着与整个语料库结构相同的路径：从技术基础到社区建设，再到正式研究，然后是企业应用。
 
-- Go Nights 分享
-- `gobench` 等主题演讲
-- `talkgo.fm`
-- 与社区核心人物的交流和录制
+- [changkun.de/talk/](https://changkun.de/talk/)
 
-这意味着输出形式从文章扩展到了声音和现场表达。
+## 学术服务与社区认可
+
+在 ACM CHI（2024、2025、2026）和 INTERACT（2025）担任 Associate Chair，表明本语料库其他部分所描述的研究身份在 HCI 社区具有认可度。在 CHI、INTERACT、ICMI、IMWUT 和 MobileHCI 的多年审稿工作代表了对研究质量管控的持续参与。2023 年获得 ACM SIGCHI 的 Gary Marsden Travel Award 进一步确认了这种认可。这里不是作为资历罗列，而是作为研究线具有外部认可的证据——这种认可来自多年的持续贡献，而非某一篇论文。
 
 ## 公共输出的共同特征
 
@@ -114,6 +114,9 @@ GitHub 上有一批仓库直接以知识组织为主体：
 - [github.com/changkun/translation](https://github.com/changkun/translation)
 - [github.com/changkun/intelligence-in-the-loop](https://github.com/changkun/intelligence-in-the-loop)
 - [github.com/changkun/lmu-thesis-latex](https://github.com/changkun/lmu-thesis-latex)
+- [golang.design/research](https://golang.design/research/)
+- [changkun.de/research/](https://changkun.de/research/)
+- [changkun.de/talk/](https://changkun.de/talk/)
 
 ## 一句话总结
 

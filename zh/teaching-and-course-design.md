@@ -38,13 +38,18 @@ GitHub 上的公开课程仓库也印证了这一点。`teaching` 仓库更像�
 - **Computer Graphics**
   这是最系统的一次教学体系输出。从数学、变换、几何、相机、光栅化、材质、光照到复习，形成了一条近乎完整的学习路径。
   `cg1ss20-internal`、`cg1ss21-internal` 和 `teaching` 里的课程结构也说明，这条路径被具体组织成了按周展开的课件、作业、评分与复习资料，已经是完整课程系统。
+  课程材料公开发布在 [changkun.de/teach/cg1/](https://changkun.de/teach/cg1/)。
 
 - **Geometry Processing**
   在 2020 年后半段又继续主导更深入的几何处理课程，参与人数虽然大幅减少，但也反映了课程难度和专业性。
   `teaching` 仓库里的 GP 部分，从 discrete differential geometry 到 remeshing 的作业链，说明这里关心的是让学生逐步进入研究型和实现型问题，不满足于知识点覆盖。
+  课程材料公开发布在 [changkun.de/teach/gp/](https://changkun.de/teach/gp/)。
 
 - **教学法与学术表达**
-  未发布草稿《当我们进行学术演讲时，我们应该谈论什么》《关于教学质量的评价问题的分析与探讨》表明，关注点覆盖“讲什么”、如何展示、如何评价、如何组织课堂与学术表达。
+  未发布草稿《当我们进行学术演讲时，我们应该谈论什么》《关于教学质量的评价问题的分析与探讨》表明，关注点覆盖"讲什么"、如何展示、如何评价、如何组织课堂与学术表达。
+
+- **信息可视化**
+  2022 年的助教工作又延伸到信息可视化课程，在图形学、几何处理和机器学习之外增加了又一个教学维度。
 
 ## 教学观
 
@@ -93,6 +98,8 @@ GitHub 上的公开课程仓库也印证了这一点。`teaching` 仓库更像�
 - [github.com/changkun/teaching](https://github.com/changkun/teaching)
 - [github.com/changkun/ss18-machine-learning-tutorial](https://github.com/changkun/ss18-machine-learning-tutorial)
 - [github.com/changkun/ws-18-19-deep-learning-tutorial](https://github.com/changkun/ws-18-19-deep-learning-tutorial)
+- [changkun.de/teach/cg1/](https://changkun.de/teach/cg1/)
+- [changkun.de/teach/gp/](https://changkun.de/teach/gp/)
 - 未发布草稿《当我们进行学术演讲时，我们应该谈论什么》
 - 未发布草稿《关于教学质量的评价问题的分析与探讨》
 - [changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/](https://changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/)

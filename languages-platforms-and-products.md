@@ -19,6 +19,8 @@ In [changkun.de/blog/posts/2014-03-22-谈谈对编程语言的一般性认识/](
 
 Languages function here as an entry point into how programs are organized, and they shape system judgment as well.
 
+The 2014 post analyzes Objective-C's messaging model (runtime dynamic dispatch) versus C++'s virtual tables (compile-time binding). The core judgment is that messaging is preferable because it defers commitment to runtime, enabling optimization without recompilation. This reflects a broader pattern of interest in **when a system should commit** — runtime flexibility versus compile-time guarantees — as a design judgment that recurs across language, system, and product decisions. The later Go choice (documented in the 2020 "all-in-go" retrospective) shows the same lens from a different angle: Go's compile-time simplicity is valued for deployment and maintenance, but its runtime behavior — scheduler, garbage collector, memory model — is studied as seriously as its API surface.
+
 ## Platform Migration Experience
 
 The Apple and Mac line runs for a long time.
@@ -69,6 +71,7 @@ Much of this judgment sits behind technical writing rather than in front of it.
 - Unpublished draft: `Several Practices for Building Cross-Platform Clients with Electron`
 - [changkun.de/blog/posts/2016-09-04-博客客户端发布/](https://changkun.de/blog/posts/2016-09-04-博客客户端发布/)
 - [changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/](https://changkun.de/blog/posts/2017-03-14-Electron-深度实践总结/)
+- [changkun.de/blog/posts/2020-12-24-all-in-go/](https://changkun.de/blog/posts/2020-12-24-all-in-go/)
 
 ## One-Sentence Summary
 

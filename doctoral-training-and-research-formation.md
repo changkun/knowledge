@@ -15,11 +15,14 @@ Within the overall map, this is the point where the foundation layer first flows
 
 Seen together, the three theses form a clear progression: interaction modality -> behavior modeling -> human-in-the-loop judgment, optimization, and system failure.
 
+- Research continues actively post-PhD. A 2026 paper on trust calibration in AI systems and a submitted paper on opinion measurement interfaces show that the intelligence-in-the-loop line remains active, now extending into trust, preference elicitation, and agentic oversight.
+
 ## Several Connected Research Clusters
 
 ### Behavior Understanding and User State
 
 - The master's work on web browsing behavior studies how users switch among tabs, websites, and tasks. "Understanding the user" is already at the level of something that can be modeled, predicted, and incorporated into system design.
+- What the work actually showed is that browsing behavior is not random switching but is structured by task context and intention — users form predictable tab and window trajectories that can be captured in models. This reframed "understanding the user" as a modeling problem rather than an interface problem, and set up the later transition toward system-level behavior analysis.
 - This line later extends into prospective memory, context switching, and attention state, continuing to ask how digital systems interrupt, reorder, or weaken intention retention, task state, and cognitive load.
 
 ### Human-in-the-Loop Optimization and Machine Rationality
@@ -37,6 +40,7 @@ Seen together, the three theses form a clear progression: interaction modality -
 ### Crowd + Machine Learning and Social Systems
 
 - The relationship between groups and systems appears early. There is early work on malicious-player detection in a GWAP disaster-monitoring system, followed by intelligent-interface work on oil-spill detection that combines crowds with machine learning.
+- The GWAP work showed that gamified disaster monitoring is vulnerable to malicious players who exploit scoring rules, requiring detection mechanisms that go beyond simple input filtering. The oil-spill work showed that crowd input can be combined with machine learning to achieve detection quality that neither crowds nor models reach alone — establishing a pattern where human and machine contributions are complementary rather than redundant.
 - This shows that the research line has always had a social dimension. Humans enter the system not only as individual users, but also as groups, label sources, noise sources, cheaters, collaborators, or parts of collective judgment.
 
 ## Methodological Temperament
@@ -53,6 +57,13 @@ Seen together, the three theses form a clear progression: interaction modality -
 - Collaboration with WAY digital solutions on a mesh-processing backend also shows that this line was not confined to the classroom and did reach formal production systems.
 - Across theses, core papers, and recent directions, the most stable parent theme remains intelligence in the loop / human in the loop.
 
+## Go Systems as a Research Case Domain
+
+- The systems-engineering expertise described on the [systems page](systems-and-engineering.md) did not remain at the level of blog notes. Six investigations into Go concurrency, channel semantics, pointer management, benchmarking methodology, and the options pattern were written up as formal research papers through golang.design, and a co-authored Go programmer interview handbook was published by China Machine Press (2022).
+- Like graphics and geometry, Go serves as a high-density case domain where mathematical structure (CSP theory, scheduling), system implementation (runtime, compiler), and engineering judgment converge.
+- Its weight in the research formation comes from the same reason as graphics: it connects foundational theory to implementation detail in a way that makes research questions observable.
+- The difference is that Go mechanism work also feeds back into the open-source and community output lines, giving it a dual role that graphics does not have to the same degree.
+
 ## References
 
 - [changkun.de/research/](https://changkun.de/research/)
@@ -60,6 +71,9 @@ Seen together, the three theses form a clear progression: interaction modality -
 - [Understanding and Predicting Web Browsing Behavior](https://changkun.de/thesis/master.pdf)
 - [The Impact of Expertise in the Loop for Exploring Machine Rationality](https://changkun.de/paper/expertise.pdf)
 - [The Human in the Infinite Loop](https://changkun.de/paper/infloop.pdf)
+- [golang.design/research](https://golang.design/research/)
+- [Trust Calibration in AI Systems](https://changkun.de/paper/ou2026trustcalib.pdf)
+- [Short-Form Video and Prospective Memory](https://changkun.de/paper/tiktok.pdf)
 
 ## One-Sentence Summary
 

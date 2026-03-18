@@ -12,7 +12,7 @@ Unlike the long-tail page, this page keeps relatively stable living conditions a
 
 ## Long-Term Life Background
 
-- The geographical starting point is Chengdu in the undergraduate period, while the master's, doctorate, research, and industry work are all centered for the long term in Munich. This creates a distinctly long cross-cultural background stretching across roughly a decade.
+- The geographical arc begins further back than the undergraduate period: the actual origins are in small-town Hunan and Sichuan — Zhijiang and Chengdu — before the undergraduate years in Chengdu itself. The master's, doctorate, research, and industry work are all centered for the long term in Munich, creating a distinctly long cross-cultural background stretching across roughly a decade. Running through this trajectory is a recurring platform consciousness: an explicit awareness that institutional context determines peer quality and trajectory ceiling. The move to Germany was not merely about academic opportunity but a deliberate choice to seek stronger institutional contexts as a way to reorganize the self, not just to accumulate credentials.
 - Language entries stabilize that environment as well: native Chinese, fluent professional business English, and basic German.
 - Many later texts on language switching, institutional difference, adaptation, and self-reorganization therefore come directly from long-term life structure rather than momentary mood.
 
@@ -26,6 +26,7 @@ After 2015, Munich and life in Germany become a long-term background.
 - observations on German academic atmosphere, time structure, appointment culture, and welfare systems
 - the shift from thinking in English to rebuilding German
 - the shift from "adapting as quickly as possible" to treating the environment as an opportunity to reorganize the self
+- the coupling of upward mobility and isolation — year-end summaries repeatedly show that international achievement and personal solitude intensify in parallel, treated not as failure but as a structural consequence of long-distance migration and deliberate platform-switching
 
 These themes are most visible in the following pieces:
 
@@ -44,7 +45,7 @@ In the 2018, 2019, and 2020 summaries, travel appears less as sightseeing and mo
 
 ## Language and Thought
 
-- There are explicit reflections on English entering the thinking system, on the weakening of native-language expression, and on the mental changes brought by learning German.
+- There are explicit reflections on English entering the thinking system, on the weakening of native-language expression, and on the mental changes brought by learning German. English entering the thinking system changes concept retrieval speed — technical concepts become faster to access in English while emotional and reflective expression remains primarily Chinese. Chinese stays the primary medium for personal and reflective writing, while English becomes the professional and research default. German reshapes daily rhythm and institutional interaction but remains a surface language that does not deeply enter the thinking system.
 - Language also affects writing speed, concept retrieval, and self-positioning.
 - This helps explain the later concern with expression structure, translation, evidence, and conceptual boundaries.
 
@@ -90,6 +91,9 @@ Without cross-cultural life and media intake, many later texts would look like a
 - [changkun.de/blog/posts/2017-05-11-德国的医疗观念/](https://changkun.de/blog/posts/2017-05-11-德国的医疗观念/)
 - [changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/](https://changkun.de/blog/posts/2017-08-20-硕士生涯的第一年就这样告一段落了/)
 - [changkun.de/blog/posts/2020-02-01-2019-年终总结/](https://changkun.de/blog/posts/2020-02-01-2019-年终总结/)
+- [changkun.de/blog/posts/2014-12-24-2014-年终总结/](https://changkun.de/blog/posts/2014-12-24-2014-年终总结/)
+- [changkun.de/blog/posts/2018-01-04-2017-年终总结/](https://changkun.de/blog/posts/2018-01-04-2017-年终总结/)
+- [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/)
 
 ## One-Sentence Summary
 

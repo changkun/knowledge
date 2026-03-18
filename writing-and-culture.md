@@ -11,6 +11,7 @@ Inside the output layer, this page is closer to the writing method, research jud
 ## View of Writing
 
 - There is repeated reflection on how to unfold web-like knowledge into linear narrative. Good writing is expected to let the reader form a loop at the right moment rather than merely piling up information.
+- The critique is precise: linear exposition systematically betrays networked knowledge. Probability theory is an illustrative case — the pedagogically conventional sequence from frequency to probability to the law of large numbers conceals the axiomatic structure, where concepts actually depend on each other in non-linear ways. Mathematical writing in particular hides the original thinking process beneath a cleaned-up logical sequence that no one actually followed during discovery. This tension explains the observed trajectory from modular quick-consumption tutorials (like the Modern C++ Tutorial) toward monograph-style work with explicit concept dependencies (like Go Under the Hood). An earlier shift also mattered: the feedback vacuum of technical blogging led away from performance-oriented writing — writing for an audience — toward formation-oriented writing, where the purpose is to build the self rather than to demonstrate knowledge outward.
 - Fast-food knowledge platters are not attractive; the preferred form is more book-like, with structure, motivation, and sequence made explicit.
 - In mathematics, Go, and research writing alike, there is a strong organizing tendency: concept order, chapter dependence, and motivational buildup need to cohere.
 - There is caution toward content that offers conclusions without the path of thought behind them. The organization of thought is treated as important as the thought itself.
@@ -19,6 +20,7 @@ Inside the output layer, this page is closer to the writing method, research jud
 ## Formal Writing Forms
 
 - Writing happens outside the blog as well, taking the form of theses, academic publications, course materials, and research talks.
+- Early technical tutorials were modular and designed for quick consumption; later work shifted toward monograph structure with explicit concept dependencies and sustained motivational arcs. The 2016 academic-writing essay already established iterative drafting and multi-reader clarity as core values, so the later shift in form was a change of vehicle rather than a change of standard.
 - From wearable interaction to behavior understanding and then intelligence in the loop, formal writing keeps advancing in step with the evolution of the problems.
 - Writing here therefore appears as a knowledge-organizing ability that spans blogs, courses, papers, talks, and research guidance. Expression is only one layer of it.
 - Much of the writing also takes the form of repository-based writing, including books, lecture notes, reading lists, translation catalogs, and structured research input.
@@ -61,6 +63,7 @@ Earlier GitHub repositories also preserve visible traces of this reading structu
 ## References
 
 - [changkun.de/blog/posts/2016-05-24-从科研写作谈起/](https://changkun.de/blog/posts/2016-05-24-从科研写作谈起/)
+- [changkun.de/blog/posts/2017-05-11-这可能不是一个技术博客/](https://changkun.de/blog/posts/2017-05-11-这可能不是一个技术博客/)
 - [changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/](https://changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/)
 - [changkun.de/blog/posts/2020-03-08-我为什么不再写博客了？/](https://changkun.de/blog/posts/2020-03-08-我为什么不再写博客了？/)
 - [changkun.de/blog/posts/2021-01-03-2020-summary/](https://changkun.de/blog/posts/2021-01-03-2020-summary/)

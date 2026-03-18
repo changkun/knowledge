@@ -51,6 +51,7 @@ This shows a stable habit of turning knowledge directly into public assets that 
 - Participation extends to Go Nights, Go community events, and the European Go Contributor Summit.
 - There is continued output on Go performance, runtime behavior, benchmarking, and memory management.
 - In 2020, `golang.design` is created to reorganize scattered resources into a long-term site and project collection.
+- Beyond code and documentation, golang.design also produced formal research publications: six papers on Go concurrency, channel design, pointer management, benchmarking, scheduling, and the options pattern were written as research papers, crossing the boundary from engineering documentation into formal research methodology.
 
 The key point is not how many Go articles were written, but that a full public-output surface was formed:
 
@@ -87,14 +88,13 @@ Adjacent to translation is a more infrastructural layer:
 
 ## Talks and Podcasts
 
-The 2019 and 2020 summaries show public talks and podcasts becoming new channels of output.
+The talk output spans over a decade and mirrors the intellectual development visible across the rest of the corpus. Early academic seminars covered deep learning and generalization theory; Go community talks at TalkGo and GopherChina addressed channels, CSP, concurrency bugs, timer internals, benchmarking, and generics; formal research conference presentations at IUI 2023 and MuC 2022 brought the human-in-the-loop work to the HCI community; enterprise engineering talks covered PGO optimization in production and AI-first workflow design; and philosophical talks on free will, decision-making dilemma, and rational discussion ran throughout. The trajectory is not random breadth — it tracks the same path from technical foundations through community building into formal research and then enterprise application that structures the entire corpus.
 
-- Go Nights talks
-- topic talks such as `gobench`
-- `talkgo.fm`
-- conversations and recordings with core community figures
+- [changkun.de/talk/](https://changkun.de/talk/)
 
-The output form expands here from writing into audio and live presentation.
+## Scientific Service and Community Recognition
+
+Associate Chair roles at ACM CHI (2024, 2025, 2026) and INTERACT (2025) show that the research identity described elsewhere in this corpus has standing in the HCI community. Multi-year reviewing at CHI, INTERACT, ICMI, IMWUT, and MobileHCI represents sustained participation in research quality control. The Gary Marsden Travel Award (2023) from ACM SIGCHI further marks this recognition. This is not listed as credential accumulation but as evidence that the research line has external standing — the kind that comes from years of contribution, not from a single paper.
 
 ## Shared Characteristics of the Public Output
 
@@ -114,6 +114,9 @@ The output form expands here from writing into audio and live presentation.
 - [github.com/changkun/translation](https://github.com/changkun/translation)
 - [github.com/changkun/intelligence-in-the-loop](https://github.com/changkun/intelligence-in-the-loop)
 - [github.com/changkun/lmu-thesis-latex](https://github.com/changkun/lmu-thesis-latex)
+- [golang.design/research](https://golang.design/research/)
+- [changkun.de/research/](https://changkun.de/research/)
+- [changkun.de/talk/](https://changkun.de/talk/)
 
 ## One-Sentence Summary
 

@@ -16,6 +16,8 @@ Unlike the cross-cultural life page, this page keeps topics and materials that h
 - This page handles long-tail material, window-period interests, observations of reality, and writing that is not straightforwardly knowledge writing.
 - These materials do not necessarily amount to long-term professional competence, but they do complete the writing landscape.
 
+Yet the separation is not absolute, and the boundary is itself informative. The early Lua, Kaldi, and WatchKit explorations were rapid assessments of whether a new platform would become a durable commitment — most did not survive, but the rapid-assessment habit itself became a stable skill that now runs through every technology evaluation. Year-end summaries and reading lists repeatedly show how peripheral intake — philosophy, social science, cultural criticism taken up without a research agenda — later surfaced as anchor points for the human-systems and writing-and-culture pages, turning personal curiosity into formal problem consciousness. The personal-writing archive likewise preserves the formation of a writing voice whose emotional density and narrative instinct did not vanish but were gradually channeled into the organizing tendency visible across the stable pages, so the trunk and the long tail share more root structure than their surface separation suggests.
+
 ## Public Notes and Unpublished Drafts
 
 Public short notes and unpublished drafts also form an important part of this layer.

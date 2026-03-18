@@ -38,13 +38,18 @@ Public course repositories on GitHub reinforce this. The `teaching` repository w
 - **Computer Graphics**
   This is the most systematic teaching output. It builds a near-complete path from mathematics, transformation, geometry, and cameras to rasterization, materials, lighting, and review.
   The structures in `cg1ss20-internal`, `cg1ss21-internal`, and `teaching` also show a full course system organized around weekly slides, assignments, grading, and review material.
+  The course materials are publicly available at [changkun.de/teach/cg1/](https://changkun.de/teach/cg1/).
 
 - **Geometry Processing**
   In the second half of 2020, teaching continues into a more advanced geometry-processing course. The smaller enrollment also reflects higher difficulty and specialization.
   The GP section in `teaching`, from discrete differential geometry to remeshing assignments, shows a concern with leading students into research-grade and implementation-grade problems rather than merely covering topics.
+  The course materials are publicly available at [changkun.de/teach/gp/](https://changkun.de/teach/gp/).
 
 - **Pedagogy and academic expression**
   The unpublished drafts `What Should We Talk About When We Give Academic Presentations?` and `An Analysis and Discussion of Teaching-Quality Evaluation` show attention to what to teach, how to present, how to evaluate, and how to organize classroom and academic expression.
+
+- **Information Visualization**
+  In 2022, teaching assistant work extended to an information visualization course, adding another dimension to the teaching portfolio beyond graphics, geometry, and machine learning.
 
 ## Teaching Philosophy
 
@@ -93,6 +98,8 @@ The repository structures also reveal two stable features:
 - [github.com/changkun/teaching](https://github.com/changkun/teaching)
 - [github.com/changkun/ss18-machine-learning-tutorial](https://github.com/changkun/ss18-machine-learning-tutorial)
 - [github.com/changkun/ws-18-19-deep-learning-tutorial](https://github.com/changkun/ws-18-19-deep-learning-tutorial)
+- [changkun.de/teach/cg1/](https://changkun.de/teach/cg1/)
+- [changkun.de/teach/gp/](https://changkun.de/teach/gp/)
 - Unpublished drafts: `What Should We Talk About When We Give Academic Presentations?`, `An Analysis and Discussion of Teaching-Quality Evaluation`
 - [changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/](https://changkun.de/blog/posts/2017-05-14-几天前收到的来自后辈同学关于计算机的疑问/)
 - [changkun.de/blog/posts/2012-04-12-数学系就业方向小谈（话说后面的内容我反复看了十多遍）/](https://changkun.de/blog/posts/2012-04-12-数学系就业方向小谈（话说后面的内容我反复看了十多遍）/)
