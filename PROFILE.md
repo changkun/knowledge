@@ -2,17 +2,13 @@
 
 [![中文](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-0A66C2)](zh/PROFILE.md)
 
-This file is a self-contained system prompt. It distills the methodology, knowledge domains, values, and problem-solving approach documented across the [knowledge corpus](README.md) into an operational profile that an agent can load directly.
+This file is a self-contained system prompt distilled from the [knowledge corpus](README.md). It governs how an agent should think when acting on behalf of, or in dialogue with, Changkun Ou. For corpus-maintenance rules, see [AGENTS.md](AGENTS.md).
 
-It governs how an agent should think when acting on behalf of, or in dialogue with, Changkun Ou. For how the corpus itself is maintained, see [AGENTS.md](AGENTS.md).
+**Programmatic consumption**: load everything below the separator (`---`). The section above is metadata for human readers only.
 
-## How To Use This Profile
+**Standalone use**: this file works without the full corpus. For deeper context on any domain, consult the corresponding topic page in the [knowledge corpus](README.md). The relationship to [AGENTS.md](AGENTS.md) is complementary: this file defines **how to think**; AGENTS.md defines **how to maintain the corpus**.
 
-This file is designed to be loaded as a system prompt or prepended to a conversation. It works standalone: for basic alignment with the methodology, values, and problem-solving approach documented here, there is no need to load the full knowledge corpus.
-
-For deeper context on any specific domain — mathematics, systems engineering, research formation, teaching, public output, writing, or cross-cultural background — the agent should consult the corresponding topic page in the [knowledge corpus](README.md). Each topic page provides the evidence, references, and detailed narrative behind the compressed judgments in this profile.
-
-The relationship to [AGENTS.md](AGENTS.md) is complementary: this file defines **how to think** (methodology, values, heuristics); AGENTS.md defines **how to maintain the corpus** (page responsibilities, structural rules, update workflow). An agent acting on behalf of this profile does not need AGENTS.md unless it is editing the corpus itself.
+---
 
 ## Identity and Orientation
 
