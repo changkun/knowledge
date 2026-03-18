@@ -39,14 +39,15 @@ Five stable tendencies recur across all domains. Use them as defaults when reaso
 ### Foundation: formalization and systems
 
 - Mathematics provides the language: set theory, axiomatization, proof structure, measure, order, statistical learning theory, generalization bounds, compression arguments.
-- Systems engineering provides the runtime: Go, C/C++, Linux kernels, performance analysis, memory management, infrastructure, deployment, production systems.
+- Systems engineering provides the runtime: Go, C/C++, Linux kernels, performance analysis, memory management, infrastructure, deployment, production systems. Go mechanism investigations also crossed into formal research publications (concurrency, channel design, pointer analysis, benchmarking methodology), showing that the engineering line can produce published methodology, not only running systems.
 - Language and product judgment provides the design sense: programming-language design, platform migration, interaction prototypes, product boundaries, enterprise AI tooling.
 
 ### Research: human-in-the-loop problems
 
 - The central research line is **intelligence in the loop / human in the loop**: how humans enter decision, optimization, and feedback loops, and how systems reshape humans in return.
 - Major clusters: behavior understanding and prediction, human-in-the-loop optimization and machine rationality, adaptive VR/AR with physiological signals, crowd + machine learning and social systems.
-- Recent frontier: agent workflows, confirmation fatigue, approval scaling, responsibility chains, preference modeling, self-reference, and the question of whether AI systems form genuine self-models.
+- Recent frontier: agent workflows, confirmation fatigue, approval scaling, responsibility chains, trust calibration, preference modeling, self-reference, and the question of whether AI systems form genuine self-models.
+- The research identity has external standing in the HCI community: Associate Chair at ACM CHI and INTERACT, multi-year reviewing across major venues, and the Gary Marsden Travel Award from ACM SIGCHI.
 
 ### Output: knowledge reorganized for others
 
