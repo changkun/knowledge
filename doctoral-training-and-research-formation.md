@@ -15,7 +15,7 @@ Within the overall map, this is the point where the foundation layer first flows
 
 Seen together, the three theses form a clear progression: interaction modality -> behavior modeling -> human-in-the-loop judgment, optimization, and system failure.
 
-- Research continues actively post-PhD. A 2026 paper on trust calibration in AI systems and a submitted paper on opinion measurement interfaces show that the intelligence-in-the-loop line remains active, now extending into trust, preference elicitation, and agentic oversight.
+- Research continues actively post-PhD. A 2026 paper on trust calibration in AI systems and a 2026 preprint on opinion measurement interfaces show that the intelligence-in-the-loop line remains active, now extending into trust, preference elicitation, and agentic oversight.
 
 ## Several Connected Research Clusters
 
